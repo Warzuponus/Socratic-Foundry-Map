@@ -1,0 +1,3779 @@
+{
+  "framework": "ccss-math",
+  "reviewedBy": "Claude (AI-proposed, pending human review)",
+  "date": "2026-10-19",
+  "method": "Each K-6 math topic with no Common Core link was compared against that grade's CCSS-M standards and the 8 Standards for Mathematical Practice. Links only where the topic's description and evidence clearly cover part (partial) or all (full) of a standard. Notes, keyed by grade, explain links and why topics were left unlinked.",
+  "links": [
+    {
+      "topicId": "mt_-F_Lv_apzH",
+      "name": "Adding and subtracting (age 9+)",
+      "standards": [
+        {
+          "key": "ccss-math:4.OA.3",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:4.NBT.4",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "4": "Multistep add/sub problems with large whole numbers"
+      }
+    },
+    {
+      "topicId": "mt_-V7EnqU7gG",
+      "name": "Adding fractions (different denominators)",
+      "standards": [],
+      "notes": {
+        "4": "Unlike-denominator addition is grade 5 (5.NF.1); 4.NF.5 covers only tenths+hundredths"
+      }
+    },
+    {
+      "topicId": "mt_-af65bxfdp",
+      "name": "Measuring Liquids & Masses",
+      "standards": [
+        {
+          "key": "ccss-math:3.MD.2",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_-bMnJcPJy8",
+      "name": "Experimental vs Theoretical",
+      "standards": [],
+      "notes": {
+        "5": "Experimental vs theoretical probability is 7.SP.6-7"
+      }
+    },
+    {
+      "topicId": "mt_-c4Ca_nBzX",
+      "name": "Probability as a Fraction",
+      "standards": [],
+      "notes": {
+        "4": "Probability is grade 7 (7.SP.5-7)"
+      }
+    },
+    {
+      "topicId": "mt_-hTTat0mBR",
+      "name": "What Is a Half?",
+      "standards": [],
+      "notes": {
+        "K": "Halves are 1.G.3 in CCSS; no K equivalent."
+      }
+    },
+    {
+      "topicId": "mt_-vvVxpOHG2",
+      "name": "Ordering Events in Time",
+      "standards": [],
+      "notes": {
+        "K": "Sequencing events/days; no CCSS K equivalent."
+      }
+    },
+    {
+      "topicId": "mt_09sySPqM9Z",
+      "name": "Understanding fractions (age 9+)",
+      "standards": [
+        {
+          "key": "ccss-math:4.NF.3",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-math:4.NF.3.b",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_0Wg5F97osg",
+      "name": "Factors, multiples, and primes (age 9+)",
+      "standards": [
+        {
+          "key": "ccss-math:4.OA.4",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "4": "Factors/multiples part; squares and cubes are UK content"
+      }
+    },
+    {
+      "topicId": "mt_0XxyaQLRhn",
+      "name": "Telling Time: Hours and Half Hours",
+      "standards": [],
+      "notes": {
+        "K": "Telling time to hour/half hour is 1.MD.3; no K equivalent."
+      }
+    },
+    {
+      "topicId": "mt_0u4KLbvBa1",
+      "name": "Odd and even numbers",
+      "standards": [],
+      "notes": {
+        "1": "Odd/even is 2.OA.3."
+      }
+    },
+    {
+      "topicId": "mt_14T5yPXUq_",
+      "name": "Adding Fractions (Unlike Denominators)",
+      "standards": [
+        {
+          "key": "ccss-math:5.NF.1",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_18fK9sQdIz",
+      "name": "Written Multiplication",
+      "standards": [],
+      "notes": {
+        "3": "Multi-digit by one-digit multiplication is grade 4 (4.NBT.5)"
+      }
+    },
+    {
+      "topicId": "mt_1KkvzwYxbR",
+      "name": "Negative numbers in context",
+      "standards": [],
+      "notes": {
+        "4": "Negative numbers are grade 6 (6.NS.5-6)"
+      }
+    },
+    {
+      "topicId": "mt_1PAWhRhpdg",
+      "name": "Dividing by Fractions",
+      "standards": [
+        {
+          "key": "ccss-math:5.NF.7",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:5.NF.7.b",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_20WfHhnL39",
+      "name": "Hands-On Problem Solving",
+      "standards": [
+        {
+          "key": "ccss-math:MP.5",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "K": "Choosing concrete tools."
+      }
+    },
+    {
+      "topicId": "mt_2ESZh70NyS",
+      "name": "Understanding fractions (age 9+)",
+      "standards": [
+        {
+          "key": "ccss-math:MP.3",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_2OtRUM_0zW",
+      "name": "Scale and similar shapes",
+      "standards": [],
+      "notes": {
+        "5": "Scale factor/similar figures is 7.G.1"
+      }
+    },
+    {
+      "topicId": "mt_2VpdPjvewx",
+      "name": "Decimal place value",
+      "standards": [
+        {
+          "key": "ccss-math:5.MD.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "5": "Unit conversion within a system; lacks multi-step problem part"
+      }
+    },
+    {
+      "topicId": "mt_2XDGT5tei1",
+      "name": "Number of minutes in an hour",
+      "standards": [],
+      "notes": {
+        "1": "Time unit facts are not a grade 1 CCSS standard."
+      }
+    },
+    {
+      "topicId": "mt_2jbUekyTu4",
+      "name": "Extending Table Patterns",
+      "standards": [
+        {
+          "key": "ccss-math:MP.8",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_2yas4Unc8o",
+      "name": "Telling time to the minute (age 9+)",
+      "standards": [
+        {
+          "key": "ccss-math:4.MD.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "4": "Converting hr/min/sec to smaller units; years/weeks not in standard"
+      }
+    },
+    {
+      "topicId": "mt_3S10OOGPqu",
+      "name": "What Is an Angle?",
+      "standards": [
+        {
+          "key": "ccss-math:4.MD.5",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_3VmBdlAeOZ",
+      "name": "Fractions on a number line",
+      "standards": [
+        {
+          "key": "ccss-math:MP.2",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "3": "Moving between contexts, diagrams and symbols"
+      }
+    },
+    {
+      "topicId": "mt_3XJkeIn6J6",
+      "name": "Estimating answers (age 7+)",
+      "standards": [
+        {
+          "key": "ccss-math:2.MD.7",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "2": "Reading analog clocks (to nearest minute covers nearest 5 minutes); duration estimates go beyond."
+      }
+    },
+    {
+      "topicId": "mt_3e_PQxwC12",
+      "name": "Fluent addition and subtraction",
+      "standards": [
+        {
+          "key": "ccss-math:1.OA.6",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:1.NBT.4",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Facts to 20 and derived facts (e.g. 35+5, 60+40)."
+      }
+    },
+    {
+      "topicId": "mt_3fwYu7imd4",
+      "name": "Probabilities Sum to One",
+      "standards": [],
+      "notes": {
+        "5": "Complement rule is grade 7 SP"
+      }
+    },
+    {
+      "topicId": "mt_3rTIyJDw7-",
+      "name": "Advanced Math Vocabulary",
+      "standards": [
+        {
+          "key": "ccss-math:MP.6",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "5": "Precision in vocabulary, units, notation"
+      }
+    },
+    {
+      "topicId": "mt_3tPI0HqqcN",
+      "name": "Miles & Kilometers",
+      "standards": [],
+      "notes": {
+        "5": "Miles-km is cross-system conversion (UK); 5.MD.1 is within one system"
+      }
+    },
+    {
+      "topicId": "mt_3y7xKP9MjU",
+      "name": "Fractions of amounts (harder)",
+      "standards": [],
+      "notes": {
+        "3": "Fractions of quantities (3/5 of 20) is UK content; CCSS multiplies fractions by wholes in grade 4-5"
+      }
+    },
+    {
+      "topicId": "mt_42QD6nYjiZ",
+      "name": "Measurement Line Plots",
+      "standards": [
+        {
+          "key": "ccss-math:4.MD.4",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_4K1dr204Hi",
+      "name": "Decimals and fractions (age 10+)",
+      "standards": [
+        {
+          "key": "ccss-math:5.NF.3",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "5": "Fraction as division; percent equivalences are grade 6"
+      }
+    },
+    {
+      "topicId": "mt_4Km38F4L-6",
+      "name": "Fractions of a whole (age 10+)",
+      "standards": [
+        {
+          "key": "ccss-math:5.NF.3",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_4MFUAsbx_6",
+      "name": "Measuring angles",
+      "standards": [
+        {
+          "key": "ccss-math:4.MD.6",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_4WaKWECpcv",
+      "name": "Writing Number Sentences",
+      "standards": [
+        {
+          "key": "ccss-math:5.OA.2",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_4emC463IyW",
+      "name": "Comparing Time Durations",
+      "standards": [],
+      "notes": {
+        "2": "Elapsed time is 3.MD.1."
+      }
+    },
+    {
+      "topicId": "mt_4lp_b5Pzik",
+      "name": "Capacity and volume",
+      "standards": [],
+      "notes": {
+        "K": "Measuring capacity with units (incl. liters) is UK content; CCSS liquid volume starts at 3.MD.2."
+      }
+    },
+    {
+      "topicId": "mt_4ubP_RMg9o",
+      "name": "Percentage and decimal equivalents",
+      "standards": [],
+      "notes": {
+        "4": "Percent equivalents are grade 6 (6.RP.3c)"
+      }
+    },
+    {
+      "topicId": "mt_5HV4mbgSGH",
+      "name": "Fractions on a number line",
+      "standards": [
+        {
+          "key": "ccss-math:4.MD.2",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_5NwqN6pf_A",
+      "name": "Rounding Large Numbers",
+      "standards": [
+        {
+          "key": "ccss-math:4.NBT.3",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_5TBUFnCy5-",
+      "name": "Volume as additive",
+      "standards": [
+        {
+          "key": "ccss-math:5.MD.5.c",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_6-j1NO2ZUH",
+      "name": "Multiplicative Comparison",
+      "standards": [
+        {
+          "key": "ccss-math:4.OA.2",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_6J1wmCWf41",
+      "name": "Money Addition & Subtraction",
+      "standards": [],
+      "notes": {
+        "1": "Money problems are 2.MD.8; no grade 1 equivalent."
+      }
+    },
+    {
+      "topicId": "mt_6XCURuNwPw",
+      "name": "Sequence intervals of time",
+      "standards": [],
+      "notes": {
+        "1": "Comparing durations has no CCSS grade 1 equivalent."
+      }
+    },
+    {
+      "topicId": "mt_6_O6THdEDK",
+      "name": "Giving Change",
+      "standards": [
+        {
+          "key": "ccss-math:2.MD.8",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "2": "Money problems with $ and ¢."
+      }
+    },
+    {
+      "topicId": "mt_6oxQPNLHNv",
+      "name": "Calculating with measurements",
+      "standards": [
+        {
+          "key": "ccss-math:2.MD.1",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:2.MD.5",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "2": "Measuring and adding/subtracting lengths; mass and capacity units are UK content."
+      }
+    },
+    {
+      "topicId": "mt_6xNmQLzuqm",
+      "name": "Understanding Area",
+      "standards": [
+        {
+          "key": "ccss-math:3.MD.5.a",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-math:3.MD.5.b",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_70qDTI14td",
+      "name": "Adding and subtracting mixed numbers",
+      "standards": [
+        {
+          "key": "ccss-math:4.NF.3.c",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_76SPWvdI7r",
+      "name": "Number Words to 100",
+      "standards": [],
+      "notes": {
+        "1": "Number words (number names) are 2.NBT.3; 1.NBT.1 covers numerals only."
+      }
+    },
+    {
+      "topicId": "mt_7rJM8eWUfw",
+      "name": "Counting in 6s",
+      "standards": [],
+      "notes": {
+        "3": "Counting in 6s/7s/9s/25s/1000s is a UK Year 4 objective; no direct CCSS grade-3 equivalent"
+      }
+    },
+    {
+      "topicId": "mt_89riIKwGYp",
+      "name": "Measuring angles (age 9+)",
+      "standards": [
+        {
+          "key": "ccss-math:4.MD.7",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_8A3pZNOp7Z",
+      "name": "Mental multiplication and division (age 9+)",
+      "standards": [
+        {
+          "key": "ccss-math:4.NBT.5",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:4.NBT.6",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "4": "Mental place-value/property strategies"
+      }
+    },
+    {
+      "topicId": "mt_8H2kO4k2B9",
+      "name": "Regular and irregular polygons",
+      "standards": [],
+      "notes": {
+        "4": "Regular vs irregular polygons: no grade-4 CCSS standard"
+      }
+    },
+    {
+      "topicId": "mt_8OAGVdeTJ_",
+      "name": "Understanding angles",
+      "standards": [],
+      "notes": {
+        "2": "Angles as turns are 4.MD.5."
+      }
+    },
+    {
+      "topicId": "mt_8xVHooT4aI",
+      "name": "Real-World Math Modeling",
+      "standards": [
+        {
+          "key": "ccss-math:MP.4",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_933BohS9BH",
+      "name": "Comparing Decimals",
+      "standards": [
+        {
+          "key": "ccss-math:4.NF.7",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "4": "Thousandths extension is grade 5"
+      }
+    },
+    {
+      "topicId": "mt_98c2qwEF7Q",
+      "name": "Place Value to 1000",
+      "standards": [
+        {
+          "key": "ccss-math:2.NBT.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "2": "Hundreds/tens/ones in problems."
+      }
+    },
+    {
+      "topicId": "mt_9IzhGUZ30z",
+      "name": "Number Words to Twenty",
+      "standards": [],
+      "notes": {
+        "K": "Reading/writing number words is 2.NBT.3 (number names); K.CC.3 covers numerals only."
+      }
+    },
+    {
+      "topicId": "mt_9KmVWCuh5_",
+      "name": "Understanding fractions (age 10+)",
+      "standards": [
+        {
+          "key": "ccss-math:MP.2",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:MP.4",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "5": "Moving between contexts and representations"
+      }
+    },
+    {
+      "topicId": "mt_9L3NQqgqRd",
+      "name": "Representing Numbers",
+      "standards": [
+        {
+          "key": "ccss-math:1.NBT.2",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:2.NBT.1",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:2.MD.6",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Representing two-digit numbers with base-ten blocks; three-digit parts are grade 2.",
+        "2": "Three-digit numbers in base-ten blocks/place-value charts; numbers on a number line."
+      }
+    },
+    {
+      "topicId": "mt_9XVFje6Tyr",
+      "name": "1000 More or Less",
+      "standards": [],
+      "notes": {
+        "3": "4-digit place value is grade 4 (4.NBT.1-2)"
+      }
+    },
+    {
+      "topicId": "mt_A-FyLLLLzy",
+      "name": "Shape patterns",
+      "standards": [
+        {
+          "key": "ccss-math:4.OA.5",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_AF2BeFQwfX",
+      "name": "Adding money and giving change",
+      "standards": [],
+      "notes": {
+        "1": "Money is 2.MD.8 in CCSS; no grade 1 equivalent."
+      }
+    },
+    {
+      "topicId": "mt_AKAtWEwpcj",
+      "name": "Mental addition and subtraction (age 6+)",
+      "standards": [
+        {
+          "key": "ccss-math:1.NBT.4",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Two-digit plus one-digit; subtraction part is grade 2."
+      }
+    },
+    {
+      "topicId": "mt_AQo4u7O4sM",
+      "name": "Area and the distributive property",
+      "standards": [
+        {
+          "key": "ccss-math:3.MD.7.c",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-math:3.OA.5",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "3": "Distributive property via area"
+      }
+    },
+    {
+      "topicId": "mt_AR-K72OIIO",
+      "name": "Multiply & Add Problems",
+      "standards": [
+        {
+          "key": "ccss-math:3.OA.5",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "3": "Distributive law; scaling/comparison problems are 4.OA.2"
+      }
+    },
+    {
+      "topicId": "mt_ATYLKt0je-",
+      "name": "Proportional Reasoning Vocabulary",
+      "standards": [
+        {
+          "key": "ccss-math:6.RP.2",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:6.RP.3b",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:MP.6",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "6": "Rate/unit rate language and constant speed; inverse proportion, density, scale factor go beyond."
+      }
+    },
+    {
+      "topicId": "mt_AYzE1EAvI0",
+      "name": "Fractions of a whole (age 8+)",
+      "standards": [
+        {
+          "key": "ccss-math:3.NF.3.c",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_AabJisinfi",
+      "name": "Multiplying fractions (age 10+)",
+      "standards": [
+        {
+          "key": "ccss-math:5.NF.4",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:5.NF.4.a",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_Ac7oMWhyPw",
+      "name": "Reading and writing numbers (age 10+)",
+      "standards": [
+        {
+          "key": "ccss-math:5.NBT.3",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-math:5.NBT.3.a",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-math:5.NBT.3.b",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_BFJ-ch_8QU",
+      "name": "Comparing and ordering measurements",
+      "standards": [
+        {
+          "key": "ccss-math:1.MD.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Ordering lengths; mass/capacity and standard units go beyond grade 1."
+      }
+    },
+    {
+      "topicId": "mt_C9ZfT-4cgn",
+      "name": "Commutative Multiplication",
+      "standards": [],
+      "notes": {
+        "1": "Commutativity of multiplication is 3.OA.5."
+      }
+    },
+    {
+      "topicId": "mt_CBHwluE6Lp",
+      "name": "Adding Fractions (Same Denominator)",
+      "standards": [],
+      "notes": {
+        "3": "Adding/subtracting like-denominator fractions is grade 4 (4.NF.3)"
+      }
+    },
+    {
+      "topicId": "mt_CDa5AVakLE",
+      "name": "Two-step addition and subtraction problems",
+      "standards": [
+        {
+          "key": "ccss-math:3.OA.8",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "3": "Two-step problems, addition/subtraction only"
+      }
+    },
+    {
+      "topicId": "mt_CUmjcE7W6c",
+      "name": "Fractions on a number line (age 9+)",
+      "standards": [
+        {
+          "key": "ccss-math:MP.2",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:MP.4",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "4": "Moving between contexts, models and equations"
+      }
+    },
+    {
+      "topicId": "mt_Cg8VPguS_V",
+      "name": "Calculating the Mean",
+      "standards": [],
+      "notes": {
+        "5": "Mean is 6.SP.5c; UK Y6 content"
+      }
+    },
+    {
+      "topicId": "mt_ChjMU2GDJa",
+      "name": "Bar graphs",
+      "standards": [],
+      "notes": {
+        "3": "Time graphs / continuous data are UK content; not part of CCSS grade 3 data standards"
+      }
+    },
+    {
+      "topicId": "mt_Cqm8iy48UI",
+      "name": "Reading tables",
+      "standards": [],
+      "notes": {
+        "4": "Tables and timetables have no grade-4 CCSS standard"
+      }
+    },
+    {
+      "topicId": "mt_DOe893F6gN",
+      "name": "Choosing measurement units",
+      "standards": [],
+      "notes": {
+        "1": "Standard units (m/cm, kg/g, °C, l/ml) are UK content; CCSS standard-unit length starts at 2.MD.1."
+      }
+    },
+    {
+      "topicId": "mt_DRlbMok2lT",
+      "name": "Fraction-Decimal Equivalents",
+      "standards": [],
+      "notes": {
+        "3": "Fraction-decimal equivalents are grade 4"
+      }
+    },
+    {
+      "topicId": "mt_DW2D1c0fKx",
+      "name": "Shape patterns",
+      "standards": [
+        {
+          "key": "ccss-math:MP.7",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:1.OA.3",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Commutative property as an addition strategy."
+      }
+    },
+    {
+      "topicId": "mt_DyGBW3ZHh3",
+      "name": "Written Multiplication & Division",
+      "standards": [],
+      "notes": {
+        "2": "Two-digit × one-digit is 4.NBT.5."
+      }
+    },
+    {
+      "topicId": "mt_EBYGhd8X3x",
+      "name": "Connecting Representations",
+      "standards": [
+        {
+          "key": "ccss-math:MP.2",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:1.OA.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Writing equations to match word problems within 20."
+      }
+    },
+    {
+      "topicId": "mt_EDgw64OmfA",
+      "name": "Place Value × 10 and ÷ 10",
+      "standards": [
+        {
+          "key": "ccss-math:5.NBT.1",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_ESgc4YBw-a",
+      "name": "Percentages (age 9+)",
+      "standards": [],
+      "notes": {
+        "4": "Ratio/proportion vocabulary is grade 6 (6.RP)",
+        "5": "Ratio/percent vocabulary is grade 6 RP"
+      }
+    },
+    {
+      "topicId": "mt_EXlmTURK_o",
+      "name": "Time Units and Calendar Facts",
+      "standards": [],
+      "notes": {
+        "2": "Calendar/time-unit facts are not in CCSS-M grade 2."
+      }
+    },
+    {
+      "topicId": "mt_EmR5n58jZt",
+      "name": "Multi-Step Multiply & Divide",
+      "standards": [],
+      "notes": {
+        "2": "Multiplicative scaling/correspondence problems are 3.OA/4.OA."
+      }
+    },
+    {
+      "topicId": "mt_Ep7TDFuYUa",
+      "name": "Equivalent fractions on a number line",
+      "standards": [
+        {
+          "key": "ccss-math:3.NF.3.a",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-math:3.NF.3.b",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_FAXjFkgG6X",
+      "name": "Shape patterns (age 7+)",
+      "standards": [
+        {
+          "key": "ccss-math:MP.7",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_FHIAv6dfhU",
+      "name": "Factors, multiples, and primes",
+      "standards": [
+        {
+          "key": "ccss-math:4.OA.4",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "4": "Common factors/multiples extend to grade 6 (6.NS.4)",
+        "5": "Factor pairs/primes are 4.OA.4 (grade 4); nothing at grade 5"
+      }
+    },
+    {
+      "topicId": "mt_FP-mjXaq3B",
+      "name": "Equivalent fractions (age 8+)",
+      "standards": [
+        {
+          "key": "ccss-math:3.NF.3.b",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_FbDKeLfBCo",
+      "name": "Equivalent fractions",
+      "standards": [],
+      "notes": {
+        "2": "Equivalent fractions are 3.NF.3."
+      }
+    },
+    {
+      "topicId": "mt_FieL-vVTI_",
+      "name": "Advanced Multi-Step Problems",
+      "standards": [
+        {
+          "key": "ccss-math:MP.1",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "5": "Make sense of multi-step problems, check reasonableness"
+      }
+    },
+    {
+      "topicId": "mt_Fl7b8q9pI1",
+      "name": "Decimal place value",
+      "standards": [],
+      "notes": {
+        "3": "Rounding decimals is UK Year 4 content; CCSS decimals start grade 4-5"
+      }
+    },
+    {
+      "topicId": "mt_FnUJMXPUZX",
+      "name": "Understanding fractions",
+      "standards": [],
+      "notes": {
+        "5": "Sharing in a ratio is 6.RP"
+      }
+    },
+    {
+      "topicId": "mt_FspV_imUGK",
+      "name": "Proportion Graphs",
+      "standards": [
+        {
+          "key": "ccss-math:6.RP.3",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:6.RP.3a",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "6": "Ratio tables, double number lines, plotting pairs; line through origin is 7.RP.2."
+      }
+    },
+    {
+      "topicId": "mt_FvEq4heNBx",
+      "name": "Dividing by two-digit numbers",
+      "standards": [],
+      "notes": {
+        "5": "UK formal short division (\"bus stop\") method; CCSS 5.NBT.6 uses place-value strategies/models, not this algorithm"
+      }
+    },
+    {
+      "topicId": "mt_G3sVFQNCme",
+      "name": "Checking Answers by Rounding",
+      "standards": [
+        {
+          "key": "ccss-math:4.NBT.3",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:4.OA.3",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "4": "Rounding to estimate; 4.OA.3 asks to assess reasonableness with estimation"
+      }
+    },
+    {
+      "topicId": "mt_GRWwTDZ3wD",
+      "name": "Arrays for multiplication",
+      "standards": [],
+      "notes": {
+        "K": "Arrays are 2.OA.4/3.OA in CCSS."
+      }
+    },
+    {
+      "topicId": "mt_Gag_h98jWP",
+      "name": "Reading and writing numbers to 10,000,000",
+      "standards": [],
+      "notes": {
+        "5": "Reading/comparing multi-digit whole numbers is 4.NBT.2"
+      }
+    },
+    {
+      "topicId": "mt_GpltXPoaoc",
+      "name": "Complex Multi-Step Problems",
+      "standards": [
+        {
+          "key": "ccss-math:MP.1",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_GzcJEVkNRn",
+      "name": "Understanding angles (age 8+)",
+      "standards": [
+        {
+          "key": "ccss-math:3.MD.7.b",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "3": "Topic name is mislabeled; content is rectangle area by multiplying"
+      }
+    },
+    {
+      "topicId": "mt_H6LlpWgEYS",
+      "name": "Reading and Comparing Bar Graphs",
+      "standards": [],
+      "notes": {
+        "4": "Bar/line graph reading has no grade-4 CCSS standard (bar graphs are 3.MD.3)"
+      }
+    },
+    {
+      "topicId": "mt_HJA2Oz-Zh1",
+      "name": "Fractions of a whole (age 9+)",
+      "standards": [
+        {
+          "key": "ccss-math:4.NF.4.c",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_HLUqHJ9Y7n",
+      "name": "Patterns with Powers of Ten",
+      "standards": [
+        {
+          "key": "ccss-math:5.NBT.2",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_HY8Yycu_rz",
+      "name": "Understanding fractions (age 7+)",
+      "standards": [
+        {
+          "key": "ccss-math:MP.6",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_HhuSDxwDNM",
+      "name": "Times tables",
+      "standards": [],
+      "notes": {
+        "1": "Times tables are 3.OA.7."
+      }
+    },
+    {
+      "topicId": "mt_HnKbuCliNS",
+      "name": "Comparing fractions (age 8+)",
+      "standards": [
+        {
+          "key": "ccss-math:3.NF.3.d",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_I5j1ZWo2cn",
+      "name": "Adding and subtracting tens mentally",
+      "standards": [
+        {
+          "key": "ccss-math:1.NBT.4",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Two-digit plus multiple of 10; subtracting tens from non-multiples goes beyond grade 1."
+      }
+    },
+    {
+      "topicId": "mt_IHipFGTFEY",
+      "name": "Understanding fractions",
+      "standards": [
+        {
+          "key": "ccss-math:5.MD.2",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_IL86kadLSS",
+      "name": "Numbers on a number line",
+      "standards": [
+        {
+          "key": "ccss-math:3.MD.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "3": "Elapsed-time word problems part"
+      }
+    },
+    {
+      "topicId": "mt_IM1G_7QzTa",
+      "name": "Real-World to Math Connections",
+      "standards": [
+        {
+          "key": "ccss-math:MP.4",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:K.OA.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "K": "Representing addition/subtraction situations with objects and actions."
+      }
+    },
+    {
+      "topicId": "mt_IegHBHERVa",
+      "name": "Decimal place value (age 8+)",
+      "standards": [],
+      "notes": {
+        "3": "Comparing decimals is grade 4 (4.NF.7)"
+      }
+    },
+    {
+      "topicId": "mt_IfEgu0X449",
+      "name": "Comparing fractions",
+      "standards": [],
+      "notes": {
+        "2": "Comparing fractions is 3.NF.3d."
+      }
+    },
+    {
+      "topicId": "mt_Ii1hV4V5ql",
+      "name": "Decimal place value (age 9+)",
+      "standards": [],
+      "notes": {
+        "4": "Rounding decimals is grade 5 (5.NBT.4)"
+      }
+    },
+    {
+      "topicId": "mt_IuHa5UI5od",
+      "name": "Measuring length (age 10+)",
+      "standards": [
+        {
+          "key": "ccss-math:5.MD.3",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-math:5.MD.3.a",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-math:5.MD.3.b",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "5": "Name is mislabeled; content is volume concept"
+      }
+    },
+    {
+      "topicId": "mt_IwEOCN6bL1",
+      "name": "Choosing representations strategically",
+      "standards": [
+        {
+          "key": "ccss-math:MP.5",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_IzQvs7k_sE",
+      "name": "Skip Counting (4s, 8s, 50s, 100s)",
+      "standards": [
+        {
+          "key": "ccss-math:2.NBT.2",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "2": "Skip-counting by 100s (and 50s); 4s and 8s are not grade 2 CCSS."
+      }
+    },
+    {
+      "topicId": "mt_J339bO7qLe",
+      "name": "Multiplying fractions (age 11+)",
+      "standards": [
+        {
+          "key": "ccss-math:6.RP.3c",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "6": "Percent of a quantity; fraction of an amount is 5.NF.4."
+      }
+    },
+    {
+      "topicId": "mt_J4j7d3iAfg",
+      "name": "Simple Chance Experiments",
+      "standards": [],
+      "notes": {
+        "4": "Chance experiments are grade 7 (7.SP.6)"
+      }
+    },
+    {
+      "topicId": "mt_JH_6RpNWjr",
+      "name": "Addition and subtraction strategies (age 10+)",
+      "standards": [
+        {
+          "key": "ccss-math:5.NBT.7",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "5": "Add/subtract part of decimal operations to hundredths"
+      }
+    },
+    {
+      "topicId": "mt_Jvg8X0N5u0",
+      "name": "Using Simple Formulas",
+      "standards": [],
+      "notes": {
+        "5": "Substituting into formulas is 6.EE.2c; UK Y6 content"
+      }
+    },
+    {
+      "topicId": "mt_Jvvh5P06NV",
+      "name": "Area by Tiling",
+      "standards": [
+        {
+          "key": "ccss-math:3.MD.7.a",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_JwP9QFv6gQ",
+      "name": "Reading and writing numbers (age 9+)",
+      "standards": [
+        {
+          "key": "ccss-math:4.NBT.2",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_K3R0yaHVcx",
+      "name": "Modeling with multiplication and fractions",
+      "standards": [
+        {
+          "key": "ccss-math:MP.4",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_K5jM7vlVhA",
+      "name": "All times tables to 12×12",
+      "standards": [
+        {
+          "key": "ccss-math:3.OA.7",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "3": "Recall of all one-digit products (extends to 12x12)"
+      }
+    },
+    {
+      "topicId": "mt_KFKUR_gBg_",
+      "name": "Understanding angles (age 9+)",
+      "standards": [
+        {
+          "key": "ccss-math:4.MD.3",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "4": "Missing sides of rectangles from area/perimeter"
+      }
+    },
+    {
+      "topicId": "mt_KaF0SQvaiu",
+      "name": "Measuring length and height (age 5+)",
+      "standards": [],
+      "notes": {
+        "K": "Measuring with units is 1.MD.2/2.MD.1; K.MD only describes and directly compares attributes."
+      }
+    },
+    {
+      "topicId": "mt_Kr3IyA6m-O",
+      "name": "Fractions on a number line",
+      "standards": [],
+      "notes": {
+        "2": "Fractions on a number line are 3.NF.2."
+      }
+    },
+    {
+      "topicId": "mt_LlMl2PbaZe",
+      "name": "Multiplying and dividing",
+      "standards": [
+        {
+          "key": "ccss-math:4.NBT.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "4": "Whole-number x10 digit shift; decimal and x/÷ powers of 10 part is grade 5 (5.NBT.2)"
+      }
+    },
+    {
+      "topicId": "mt_LpSuPgL31x",
+      "name": "Division as equal sharing",
+      "standards": [],
+      "notes": {
+        "K": "Division as sharing/grouping starts at 3.OA.2 in CCSS."
+      }
+    },
+    {
+      "topicId": "mt_M1tnXqmYbn",
+      "name": "Adding and subtracting (age 10+)",
+      "standards": [
+        {
+          "key": "ccss-math:5.NBT.7",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "5": "Decimal add/subtract in multi-step context; whole numbers to 10M is grade 4 content"
+      }
+    },
+    {
+      "topicId": "mt_MCu_SNg_OW",
+      "name": "Arrays for multiplication (age 9+)",
+      "standards": [
+        {
+          "key": "ccss-math:4.NBT.6",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "4": "Place-value division with remainders matches; UK short division ('bus stop') algorithm itself has no grade-4 US equivalent"
+      }
+    },
+    {
+      "topicId": "mt_MFfYcnv6Tv",
+      "name": "Right Angles & Turns",
+      "standards": [],
+      "notes": {
+        "2": "Right angles and turns are 4.G.1/4.MD.5."
+      }
+    },
+    {
+      "topicId": "mt_MHaiUd2FLA",
+      "name": "Comparing Large Numbers",
+      "standards": [],
+      "notes": {
+        "3": "Comparing multi-digit numbers beyond 1000 is grade 4 (4.NBT.2)"
+      }
+    },
+    {
+      "topicId": "mt_MJZA90uc6H",
+      "name": "Perimeter (age 10+)",
+      "standards": [],
+      "notes": {
+        "5": "Same area/different perimeter is 3.MD.8"
+      }
+    },
+    {
+      "topicId": "mt_ML5t7n2-U8",
+      "name": "Area of Triangles & Parallelograms",
+      "standards": [],
+      "notes": {
+        "5": "Area of triangles/parallelograms is 6.G.1"
+      }
+    },
+    {
+      "topicId": "mt_MWXPiaTnEu",
+      "name": "Mental addition and subtraction (age 9+)",
+      "standards": [],
+      "notes": {
+        "4": "Mental add/sub strategies; 4.NBT.4 targets the standard algorithm, no direct grade-4 match"
+      }
+    },
+    {
+      "topicId": "mt_MewIRdzpzz",
+      "name": "Roman numerals to 100",
+      "standards": [],
+      "notes": {
+        "3": "Roman numerals are UK content with no US grade-3 equivalent"
+      }
+    },
+    {
+      "topicId": "mt_Mnodea7mG_",
+      "name": "Edges, vertices, and faces",
+      "standards": [
+        {
+          "key": "ccss-math:1.G.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Describing 3-D shapes by defining attributes."
+      }
+    },
+    {
+      "topicId": "mt_MyGblah2yY",
+      "name": "Understanding fractions",
+      "standards": [],
+      "notes": {
+        "1": "Fraction notation, fractions of quantities and equivalence (3.NF.3) are not grade 1 CCSS."
+      }
+    },
+    {
+      "topicId": "mt_NSC3LT_-ch",
+      "name": "Estimating volume",
+      "standards": [],
+      "notes": {
+        "4": "Volume is grade 5 (5.MD.3-5)"
+      }
+    },
+    {
+      "topicId": "mt_NaqEP8xDhZ",
+      "name": "Converting tenths to hundredths",
+      "standards": [
+        {
+          "key": "ccss-math:4.NF.5",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_NoB20kVa4w",
+      "name": "Fractions on a number line (age 8+)",
+      "standards": [
+        {
+          "key": "ccss-math:3.NF.2.a",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-math:3.NF.2.b",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_O_UOTiMvT_",
+      "name": "Guided Multi-Step Problem Solving",
+      "standards": [
+        {
+          "key": "ccss-math:MP.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_OkSJfrmFb_",
+      "name": "Counting forwards and backwards (age 6+)",
+      "standards": [
+        {
+          "key": "ccss-math:1.NBT.5",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Ten more/ten less from any number."
+      }
+    },
+    {
+      "topicId": "mt_PL9VkDwXfh",
+      "name": "Comparing fractions (age 10+)",
+      "standards": [],
+      "notes": {
+        "5": "Comparing fractions is 4.NF.2"
+      }
+    },
+    {
+      "topicId": "mt_PNSyfH56eQ",
+      "name": "Calculating Percentages",
+      "standards": [],
+      "notes": {
+        "5": "Percent of a quantity is 6.RP.3c"
+      }
+    },
+    {
+      "topicId": "mt_PZ909yPrEC",
+      "name": "Multiplication as repeated addition",
+      "standards": [],
+      "notes": {
+        "K": "Repeated addition/equal groups are 2.OA.4/3.OA.1 in CCSS."
+      }
+    },
+    {
+      "topicId": "mt_PsylzZ9lHW",
+      "name": "Fractions on a number line",
+      "standards": [
+        {
+          "key": "ccss-math:6.NS.6c",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:6.NS.7",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "6": "Placing integers, decimals and fractions on one number line and ordering them."
+      }
+    },
+    {
+      "topicId": "mt_QDTO3GAgcq",
+      "name": "Understanding angles (age 10+)",
+      "standards": [],
+      "notes": {
+        "5": "Vertically opposite/supplementary angle facts are 7.G.5"
+      }
+    },
+    {
+      "topicId": "mt_QU5R7Aajy9",
+      "name": "Rounding Answers",
+      "standards": [
+        {
+          "key": "ccss-math:5.NBT.4",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "5": "Rounding decimal answers to specified places"
+      }
+    },
+    {
+      "topicId": "mt_QaYfeVL-0C",
+      "name": "Estimating by rounding",
+      "standards": [
+        {
+          "key": "ccss-math:3.NBT.1",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:3.OA.8",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "2": "Rounding to estimate is 3.NBT.1; no grade 2 equivalent.",
+        "3": "Rounding to nearest 10/100; estimation to assess reasonableness (3.OA.8 clause)"
+      }
+    },
+    {
+      "topicId": "mt_QqG6IdmTSE",
+      "name": "Place Value × 10 Pattern",
+      "standards": [
+        {
+          "key": "ccss-math:4.NBT.1",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_QysgF57dxh",
+      "name": "Lines, Rays & Angles",
+      "standards": [
+        {
+          "key": "ccss-math:4.G.1",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_R4AY0LKxfl",
+      "name": "Coordinates (age 10+)",
+      "standards": [],
+      "notes": {
+        "5": "Four-quadrant coordinates are 6.NS.6; grade 5 is first quadrant only"
+      }
+    },
+    {
+      "topicId": "mt_REwgr0d_ss",
+      "name": "3-D shapes (age 10+)",
+      "standards": [],
+      "notes": {
+        "5": "Nets are 6.G.4"
+      }
+    },
+    {
+      "topicId": "mt_RFeVlw0QvX",
+      "name": "Finding efficient methods",
+      "standards": [
+        {
+          "key": "ccss-math:MP.8",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "K": "Repeated reasoning to count/predict."
+      }
+    },
+    {
+      "topicId": "mt_RKeheOL9uo",
+      "name": "Multi-Step Problem Solving",
+      "standards": [
+        {
+          "key": "ccss-math:MP.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_RVK655t391",
+      "name": "Measuring temperature",
+      "standards": [],
+      "notes": {
+        "5": "Negative numbers are 6.NS.5-7"
+      }
+    },
+    {
+      "topicId": "mt_RXnyhCRYXA",
+      "name": "Multi-step problems: choosing operations",
+      "standards": [
+        {
+          "key": "ccss-math:MP.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "5": "Multi-step problem solving and operation choice; no specific grade-5 content standard"
+      }
+    },
+    {
+      "topicId": "mt_SH7QgFl8-v",
+      "name": "Transformations on a grid",
+      "standards": [],
+      "notes": {
+        "3": "Transformations are grade 8 in CCSS; nothing at grade 3",
+        "4": "Transformations are grade 8 (8.G.1-3); no grade-4 match",
+        "5": "Transformations are grade 8 (8.G.1-3)",
+        "6": "Reflections across the axes on a coordinate grid; general transformations are 8.G.1-3."
+      }
+    },
+    {
+      "topicId": "mt_SXbZ3bC9z7",
+      "name": "Comparing fractions (age 9+)",
+      "standards": [
+        {
+          "key": "ccss-math:4.NF.2",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_SmghasIvbT",
+      "name": "Multi-Step Problem Solving",
+      "standards": [
+        {
+          "key": "ccss-math:MP.1",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_SoDP1fSQEB",
+      "name": "Decimal place value",
+      "standards": [
+        {
+          "key": "ccss-math:5.NBT.7",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "5": "Multiplying decimals by whole numbers"
+      }
+    },
+    {
+      "topicId": "mt_SqhXQhAEUf",
+      "name": "Measurement Conversions",
+      "standards": [
+        {
+          "key": "ccss-math:5.MD.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "5": "Multi-step real-world conversion problems"
+      }
+    },
+    {
+      "topicId": "mt_SrrsLiJkr3",
+      "name": "Adding and subtracting (age 7+)",
+      "standards": [
+        {
+          "key": "ccss-math:2.NBT.7",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "2": "Written column methods within 1000 with regrouping."
+      }
+    },
+    {
+      "topicId": "mt_SsLWS_APM7",
+      "name": "Comparing fractions (age 7+)",
+      "standards": [],
+      "notes": {
+        "2": "Fraction problem solving is grade 3+ in CCSS."
+      }
+    },
+    {
+      "topicId": "mt_TMoHjMhRS2",
+      "name": "Precise Math Communication",
+      "standards": [
+        {
+          "key": "ccss-math:MP.6",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:1.OA.7",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Meaning of the equal sign."
+      }
+    },
+    {
+      "topicId": "mt_TcG90kS8nu",
+      "name": "Comparing durations",
+      "standards": [],
+      "notes": {
+        "K": "Time comparison language; no CCSS K time standard."
+      }
+    },
+    {
+      "topicId": "mt_TdV9YGJEoY",
+      "name": "Position, direction, and movement",
+      "standards": [],
+      "notes": {
+        "1": "Turns/right angles as quarter turns are UK content; angles appear in 4.MD.5."
+      }
+    },
+    {
+      "topicId": "mt_TgHxujL81r",
+      "name": "Multiplying fractions",
+      "standards": [
+        {
+          "key": "ccss-math:4.NF.4",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:4.NF.4.a",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-math:4.NF.4.b",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_To9HdLy8vq",
+      "name": "Roman numerals to 1000",
+      "standards": [],
+      "notes": {
+        "4": "Roman numerals are UK curriculum content with no US equivalent"
+      }
+    },
+    {
+      "topicId": "mt_TqDq6jyOmL",
+      "name": "Decimal equivalents of tenths and hundredths",
+      "standards": [],
+      "notes": {
+        "3": "Decimal notation for tenths/hundredths is grade 4 (4.NF.6)"
+      }
+    },
+    {
+      "topicId": "mt_U4cIBXVug4",
+      "name": "Multiplicative Comparison",
+      "standards": [
+        {
+          "key": "ccss-math:4.OA.1",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_U9sme87C32",
+      "name": "Decimal place value (age 11+)",
+      "standards": [],
+      "notes": {
+        "6": "Rounding to decimal places/significant figures is UK content; no grade 6 CCSS equivalent."
+      }
+    },
+    {
+      "topicId": "mt_UNzojLkNdm",
+      "name": "Telling time to the minute (age 8+)",
+      "standards": [
+        {
+          "key": "ccss-math:3.MD.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "3": "Telling time to the minute part"
+      }
+    },
+    {
+      "topicId": "mt_UQnAFPs83F",
+      "name": "Adding two two-digit numbers",
+      "standards": [
+        {
+          "key": "ccss-math:1.NBT.4",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Adding within 100 with composing a ten; two-digit subtraction is 2.NBT.5."
+      }
+    },
+    {
+      "topicId": "mt_UcGn2hjhYU",
+      "name": "Ordering Likelihoods",
+      "standards": [],
+      "notes": {
+        "4": "Probability is grade 7 (7.SP.5)"
+      }
+    },
+    {
+      "topicId": "mt_UooUHC_V7U",
+      "name": "2-D faces on 3-D shapes",
+      "standards": [],
+      "notes": {
+        "1": "Identifying 2-D faces on 3-D shapes has no specific CCSS grade 1 standard."
+      }
+    },
+    {
+      "topicId": "mt_Uq5vYqboCR",
+      "name": "Describing Movements",
+      "standards": [],
+      "notes": {
+        "3": "Translations on a grid are UK content / grade 8 in CCSS"
+      }
+    },
+    {
+      "topicId": "mt_VKW8lOcFaw",
+      "name": "Multiplication as scaling",
+      "standards": [
+        {
+          "key": "ccss-math:5.NF.5",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-math:5.NF.5.a",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-math:5.NF.5.b",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_VUQNveSYjQ",
+      "name": "Using inverse operations",
+      "standards": [],
+      "notes": {
+        "6": "Using inverse operations to check is foundational (1.OA.4, 3.OA.6); squares/roots are 8.EE.2. No grade 6 standard targets it."
+      }
+    },
+    {
+      "topicId": "mt_VgOePicFYK",
+      "name": "Fraction Addition Concepts",
+      "standards": [
+        {
+          "key": "ccss-math:4.NF.3.a",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-math:4.NF.3.b",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_Vi4Vo5xs_g",
+      "name": "Decimals for Tenths & Hundredths",
+      "standards": [
+        {
+          "key": "ccss-math:4.NF.6",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_W17Kbwm0-u",
+      "name": "Decimal & Percent Notation",
+      "standards": [
+        {
+          "key": "ccss-math:4.NF.6",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:5.NBT.3.a",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "3": "Decimals/percent are grades 4-6; nothing at grade 3",
+        "4": "Decimal notation for tenths/hundredths; percent part is grade 6",
+        "5": "Reading/writing decimals; percent is grade 6 (6.RP.3c)"
+      }
+    },
+    {
+      "topicId": "mt_WXW0hjNhph",
+      "name": "Patterns & Sequences",
+      "standards": [
+        {
+          "key": "ccss-math:MP.7",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Repeating patterns; no CCSS content standard."
+      }
+    },
+    {
+      "topicId": "mt_WfrE_4r-kY",
+      "name": "12-hour and 24-hour time",
+      "standards": [],
+      "notes": {
+        "3": "24-hour clock is UK content with no US grade-3 equivalent"
+      }
+    },
+    {
+      "topicId": "mt_WkKkb7W9Qd",
+      "name": "Making Sense of Problems",
+      "standards": [
+        {
+          "key": "ccss-math:MP.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_WsM4EmdOLe",
+      "name": "Division with remainders (age 10+)",
+      "standards": [
+        {
+          "key": "ccss-math:5.NBT.6",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "5": "4-digit by 2-digit division; CCSS emphasizes place-value strategies and models over formal long division"
+      }
+    },
+    {
+      "topicId": "mt_WtcFrxGOgw",
+      "name": "Perimeters of polygons",
+      "standards": [
+        {
+          "key": "ccss-math:3.MD.8",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_X5cypSGoGU",
+      "name": "Ratio (age 11+)",
+      "standards": [
+        {
+          "key": "ccss-math:6.EE.1",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:6.EE.2c",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "6": "Order of operations with exponents; roots and reciprocals go beyond."
+      }
+    },
+    {
+      "topicId": "mt_XLP1IM3Qbb",
+      "name": "Long multiplication (age 10+)",
+      "standards": [
+        {
+          "key": "ccss-math:5.NBT.5",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_XNmGwNggdU",
+      "name": "Numbers to Ten Million",
+      "standards": [],
+      "notes": {
+        "5": "Whole-number place value to 10M is grade 4 (4.NBT); negatives grade 6"
+      }
+    },
+    {
+      "topicId": "mt_Xt1cRqaBOW",
+      "name": "Understanding angles (age 8+)",
+      "standards": [
+        {
+          "key": "ccss-math:3.G.1",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_XuHmIn2xje",
+      "name": "Missing number problems (age 7+)",
+      "standards": [
+        {
+          "key": "ccss-math:2.NBT.7",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "2": "Missing-number and multi-step problems within 1000."
+      }
+    },
+    {
+      "topicId": "mt_Y9XKzLrUAZ",
+      "name": "Turns & Directions",
+      "standards": [],
+      "notes": {
+        "K": "Turns (whole/half/quarter) are UK content; no CCSS K equivalent."
+      }
+    },
+    {
+      "topicId": "mt_YFS7JFk64p",
+      "name": "Equations with Two Unknowns",
+      "standards": [],
+      "notes": {
+        "5": "UK Y6 algebra (pairs satisfying two-unknown equations); no grade-5 CCSS equivalent"
+      }
+    },
+    {
+      "topicId": "mt_YUJ5pwalqL",
+      "name": "Estimating Angles",
+      "standards": [
+        {
+          "key": "ccss-math:4.G.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "4": "Classifying acute/obtuse angles; reflex angles and estimating are UK content"
+      }
+    },
+    {
+      "topicId": "mt_Yw1_4Nfsql",
+      "name": "Fluent addition and subtraction (age 9+)",
+      "standards": [
+        {
+          "key": "ccss-math:4.NBT.4",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_YzM5goBctT",
+      "name": "Tenths",
+      "standards": [],
+      "notes": {
+        "2": "Tenths are 4.NF.5-6."
+      }
+    },
+    {
+      "topicId": "mt_ZJC7JnnPCu",
+      "name": "Choosing Math Tools",
+      "standards": [
+        {
+          "key": "ccss-math:MP.5",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "5": "Strategic choice of tools"
+      }
+    },
+    {
+      "topicId": "mt_ZLqYE7la4Z",
+      "name": "Addition and subtraction word problems",
+      "standards": [
+        {
+          "key": "ccss-math:4.NF.3.d",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_ZM9mhHsyYZ",
+      "name": "Understanding Percentages",
+      "standards": [],
+      "notes": {
+        "4": "Percent is grade 6 (6.RP.3c)"
+      }
+    },
+    {
+      "topicId": "mt_ZOJ6EbdPOb",
+      "name": "Understanding fractions",
+      "standards": [],
+      "notes": {
+        "4": "Scaling and rates are grade 5/6 (5.NF.5, 6.RP)"
+      }
+    },
+    {
+      "topicId": "mt_Zks8xyInSG",
+      "name": "Converting measurement units (age 9+)",
+      "standards": [
+        {
+          "key": "ccss-math:4.MD.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "4": "Metric and time units; lb/oz not covered"
+      }
+    },
+    {
+      "topicId": "mt_Zt30Gxi-qp",
+      "name": "Calculating Simple Probability",
+      "standards": [],
+      "notes": {
+        "5": "Probability is grade 7 (7.SP.5-7)"
+      }
+    },
+    {
+      "topicId": "mt__Itf4aQZUj",
+      "name": "Using Mathematical Structure",
+      "standards": [
+        {
+          "key": "ccss-math:MP.7",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt__N55B7u7HD",
+      "name": "Telling time to the minute",
+      "standards": [],
+      "notes": {
+        "K": "Timing durations/seconds; no CCSS K equivalent."
+      }
+    },
+    {
+      "topicId": "mt__casygEB85",
+      "name": "Decimal place value",
+      "standards": [
+        {
+          "key": "ccss-math:5.NBT.4",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt__sMrmOv3bx",
+      "name": "Place Value Problem-Solving",
+      "standards": [],
+      "notes": {
+        "3": "Place-value problems beyond 1000 are grade 4 (4.NBT)"
+      }
+    },
+    {
+      "topicId": "mt_a1FdAsRKOF",
+      "name": "Simple Fraction Sums",
+      "standards": [],
+      "notes": {
+        "2": "Adding like fractions is 4.NF.3."
+      }
+    },
+    {
+      "topicId": "mt_a3dov8CZkq",
+      "name": "Justifying mathematical reasoning (age 8+)",
+      "standards": [
+        {
+          "key": "ccss-math:MP.3",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_aHAM29nidj",
+      "name": "Counting forwards and backwards",
+      "standards": [],
+      "notes": {
+        "1": "Counting in 3s is not a CCSS grade 1 standard."
+      }
+    },
+    {
+      "topicId": "mt_aHQ9kNt3is",
+      "name": "Mentally adding tens to 3-digit numbers",
+      "standards": [
+        {
+          "key": "ccss-math:2.NBT.8",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:2.NBT.7",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "2": "Mentally adding/subtracting tens."
+      }
+    },
+    {
+      "topicId": "mt_aivrWs6jrS",
+      "name": "Times tables (age 8+)",
+      "standards": [
+        {
+          "key": "ccss-math:MP.8",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-math:3.OA.9",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "3": "Patterns in times tables"
+      }
+    },
+    {
+      "topicId": "mt_b7T-CjOYUR",
+      "name": "Simplifying Fractions",
+      "standards": [
+        {
+          "key": "ccss-math:5.NF.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "5": "Common denominators support 5.NF.1; simplifying via GCF is 6.NS.4"
+      }
+    },
+    {
+      "topicId": "mt_bESTSBB0wK",
+      "name": "Line graphs (age 10+)",
+      "standards": [],
+      "notes": {
+        "5": "Pie charts/line graphs are UK Y6; no grade-5 CCSS equivalent"
+      }
+    },
+    {
+      "topicId": "mt_bj1YCgNWUx",
+      "name": "Days, Weeks, Months & Years",
+      "standards": [],
+      "notes": {
+        "K": "Calendar language; not in CCSS-M."
+      }
+    },
+    {
+      "topicId": "mt_c29FaCTNsx",
+      "name": "Pictograms and tally charts",
+      "standards": [
+        {
+          "key": "ccss-math:1.MD.4",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:2.MD.10",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Organize, represent and interpret simple data.",
+        "2": "Picture graphs and block (bar) graphs."
+      }
+    },
+    {
+      "topicId": "mt_cFltwUQi-d",
+      "name": "Fractions of amounts",
+      "standards": [
+        {
+          "key": "ccss-math:1.G.3",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Quarters of shapes; thirds (2.G.3), notation and fractions of sets go beyond grade 1."
+      }
+    },
+    {
+      "topicId": "mt_cPZwlUk8Nd",
+      "name": "Coin Values",
+      "standards": [],
+      "notes": {
+        "K": "Coins/bills are 2.MD.8 in CCSS; no K equivalent."
+      }
+    },
+    {
+      "topicId": "mt_cdMlC7EpTJ",
+      "name": "Angles in triangles (age 10+)",
+      "standards": [],
+      "notes": {
+        "5": "Angle sums of polygons are 8.G.5 / UK Y6; not grade 5"
+      }
+    },
+    {
+      "topicId": "mt_d-WZC2OyMB",
+      "name": "Choosing mathematical tools",
+      "standards": [
+        {
+          "key": "ccss-math:MP.5",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_d7XktBQPxm",
+      "name": "Counting Unit Cubes",
+      "standards": [
+        {
+          "key": "ccss-math:5.MD.4",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_d8al9JcajP",
+      "name": "Converting measurement units",
+      "standards": [],
+      "notes": {
+        "3": "Unit conversion within a system is grade 4 (4.MD.1)"
+      }
+    },
+    {
+      "topicId": "mt_dXq9VWm31W",
+      "name": "Understanding fractions",
+      "standards": [
+        {
+          "key": "ccss-math:MP.2",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_doX1BhmFgk",
+      "name": "Tenths (age 8+)",
+      "standards": [],
+      "notes": {
+        "3": "Hundredths are grade 4 (4.NF.5-6)"
+      }
+    },
+    {
+      "topicId": "mt_e4V6hvcuEJ",
+      "name": "Types of angles (age 8+)",
+      "standards": [
+        {
+          "key": "ccss-math:MP.6",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "3": "Diagram conventions/angle notation are later-grade content",
+        "4": "Diagram notation conventions; precision practice, no specific grade-4 content standard",
+        "5": "Diagram conventions/angle notation; no grade-5 standard",
+        "6": "Diagram marking conventions (tick marks, ∠ABC) have no grade 6 CCSS equivalent; angle facts are 7.G.5."
+      }
+    },
+    {
+      "topicId": "mt_e7filQgayF",
+      "name": "Fraction Word Problems",
+      "standards": [
+        {
+          "key": "ccss-math:5.NF.2",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_eMtV6tBSJm",
+      "name": "Area of compound shapes",
+      "standards": [
+        {
+          "key": "ccss-math:3.MD.7.d",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_ePXg_XyCKU",
+      "name": "Bar Models for Ratios",
+      "standards": [
+        {
+          "key": "ccss-math:6.RP.3",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "4": "Ratio content is grade 6 (6.RP)",
+        "5": "Ratio tape diagrams are 6.RP.3",
+        "6": "Tape diagrams for ratio reasoning."
+      }
+    },
+    {
+      "topicId": "mt_ebPelt-qAl",
+      "name": "Equivalent fractions (age 9+)",
+      "standards": [
+        {
+          "key": "ccss-math:4.NF.1",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_efOeaGFyGM",
+      "name": "Transformations on a Grid",
+      "standards": [],
+      "notes": {
+        "4": "Reflection/translation is grade 8 (8.G.1); UK Y4/5 content"
+      }
+    },
+    {
+      "topicId": "mt_eiB3-6pu6a",
+      "name": "Estimating answers (age 9+)",
+      "standards": [
+        {
+          "key": "ccss-math:4.MD.3",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_f67qGDhyfi",
+      "name": "Connecting math to real life",
+      "standards": [
+        {
+          "key": "ccss-math:MP.4",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_fEuoBYw6bU",
+      "name": "Sorting 2-D and 3-D shapes",
+      "standards": [
+        {
+          "key": "ccss-math:1.G.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Sorting shapes by defining attributes."
+      }
+    },
+    {
+      "topicId": "mt_fLOkq-HfPB",
+      "name": "Using objects to model real problems",
+      "standards": [
+        {
+          "key": "ccss-math:MP.4",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:K.OA.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "K": "Representing situations with objects/drawings/equations."
+      }
+    },
+    {
+      "topicId": "mt_fZTn0W_iZR",
+      "name": "Generalizing Patterns",
+      "standards": [
+        {
+          "key": "ccss-math:MP.8",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:1.OA.6",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Near-doubles derivation is a 1.OA.6 strategy."
+      }
+    },
+    {
+      "topicId": "mt_fmm-P17Vka",
+      "name": "Statistical Analysis Vocabulary",
+      "standards": [],
+      "notes": {
+        "4": "Mean/median/mode etc. are grade 6 (6.SP)",
+        "5": "Mean/median/mode/range and correlation belong to grades 6-8 SP"
+      }
+    },
+    {
+      "topicId": "mt_fxPtngwUfz",
+      "name": "Number Pattern Relationships",
+      "standards": [
+        {
+          "key": "ccss-math:5.OA.3",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_g3W0mdADVu",
+      "name": "Finding halves and quarters (age 5+)",
+      "standards": [],
+      "notes": {
+        "K": "Halves/quarters are 1.G.3 in CCSS; no K equivalent."
+      }
+    },
+    {
+      "topicId": "mt_ghK1mnEstc",
+      "name": "Halves and quarters (age 8+)",
+      "standards": [
+        {
+          "key": "ccss-math:3.MD.4",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_gu0NPDvlhY",
+      "name": "Systematic Listing",
+      "standards": [],
+      "notes": {
+        "5": "UK systematic listing/combinations; counting outcomes is CCSS grade 7 (7.SP.8)"
+      }
+    },
+    {
+      "topicId": "mt_gx6KQK5-Kx",
+      "name": "Area with Fractions",
+      "standards": [
+        {
+          "key": "ccss-math:5.NF.4.b",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_gxCIASSezX",
+      "name": "Square and cube numbers",
+      "standards": [],
+      "notes": {
+        "4": "Square/cube notation is UK Y5 content; exponents are grade 5/6 in CCSS"
+      }
+    },
+    {
+      "topicId": "mt_h0CVtqI2xo",
+      "name": "Types of angles",
+      "standards": [],
+      "notes": {
+        "3": "Acute/obtuse angles are grade 4 (4.G.1-2)"
+      }
+    },
+    {
+      "topicId": "mt_h0gJcSuwdL",
+      "name": "Ratio Problems",
+      "standards": [],
+      "notes": {
+        "5": "Ratio reasoning is 6.RP"
+      }
+    },
+    {
+      "topicId": "mt_hBZwbst0ow",
+      "name": "Linear number sequences",
+      "standards": [
+        {
+          "key": "ccss-math:5.OA.3",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "5": "Generating a sequence from a rule; negative steps go beyond grade 5"
+      }
+    },
+    {
+      "topicId": "mt_hImiKNiaNh",
+      "name": "Order of operations (age 10+)",
+      "standards": [
+        {
+          "key": "ccss-math:MP.7",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "5": "Look for and use structure"
+      }
+    },
+    {
+      "topicId": "mt_hR2Y7NhMSY",
+      "name": "Lines of symmetry",
+      "standards": [],
+      "notes": {
+        "3": "Completing symmetric figures is grade 4 (4.G.3)"
+      }
+    },
+    {
+      "topicId": "mt_hRZyKvz1KN",
+      "name": "2-D shapes (age 8+)",
+      "standards": [
+        {
+          "key": "ccss-math:4.G.3",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "3": "Line symmetry is grade 4 (4.G.3)"
+      }
+    },
+    {
+      "topicId": "mt_hdrMoiTgqu",
+      "name": "2-D shapes (age 10+)",
+      "standards": [],
+      "notes": {
+        "5": "Drawing shapes from given measures is 7.G.2"
+      }
+    },
+    {
+      "topicId": "mt_hlGKg5M7qJ",
+      "name": "Fractions, Decimals & Percentages",
+      "standards": [
+        {
+          "key": "ccss-math:MP.7",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_i5_HnoFOYw",
+      "name": "Coordinates (age 8+)",
+      "standards": [],
+      "notes": {
+        "3": "Coordinate plane is grade 5 (5.G.1-2)"
+      }
+    },
+    {
+      "topicId": "mt_i9rJbuFO3p",
+      "name": "Writing Algebraic Equations",
+      "standards": [],
+      "notes": {
+        "5": "Writing/solving equations with letter unknowns is 6.EE.6-7"
+      }
+    },
+    {
+      "topicId": "mt_iFFKZd-Vgv",
+      "name": "Likelihood Language",
+      "standards": [],
+      "notes": {
+        "4": "Probability is grade 7 (7.SP.5)"
+      }
+    },
+    {
+      "topicId": "mt_iQYPw8bMfN",
+      "name": "Working with money",
+      "standards": [
+        {
+          "key": "ccss-math:MP.4",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:2.MD.8",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:2.MD.9",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "2": "Money problems with equations; line plots from measurement data."
+      }
+    },
+    {
+      "topicId": "mt_idbKDrf9qZ",
+      "name": "Fractions as parts of shapes",
+      "standards": [
+        {
+          "key": "ccss-math:3.G.2",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_ifPDOYvUqm",
+      "name": "Dividing fractions (unit fractions)",
+      "standards": [
+        {
+          "key": "ccss-math:5.NF.7",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:5.NF.7.a",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_ilPrU0cbtT",
+      "name": "Estimation to check answers to calculations",
+      "standards": [
+        {
+          "key": "ccss-math:MP.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "5": "Checking reasonableness via estimation"
+      }
+    },
+    {
+      "topicId": "mt_iyovKgZC1q",
+      "name": "Generalizing with repeated reasoning",
+      "standards": [
+        {
+          "key": "ccss-math:MP.8",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "5": "Repeated reasoning to generalize"
+      }
+    },
+    {
+      "topicId": "mt_j5YqQnN6xe",
+      "name": "Constructing mathematical arguments",
+      "standards": [
+        {
+          "key": "ccss-math:MP.3",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "5": "Construct arguments and critique reasoning"
+      }
+    },
+    {
+      "topicId": "mt_jBQS-CicNn",
+      "name": "First Quadrant Coordinates",
+      "standards": [],
+      "notes": {
+        "3": "First-quadrant coordinates are grade 5 (5.G.1)"
+      }
+    },
+    {
+      "topicId": "mt_jCy07DyBNU",
+      "name": "Reasoning with Equivalences",
+      "standards": [
+        {
+          "key": "ccss-math:MP.8",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_jHgRQ4hR0g",
+      "name": "Order of operations",
+      "standards": [
+        {
+          "key": "ccss-math:5.OA.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "5": "Evaluating expressions with grouping symbols / conventions"
+      }
+    },
+    {
+      "topicId": "mt_jY7uf0Cb7o",
+      "name": "Place value of each digit",
+      "standards": [],
+      "notes": {
+        "3": "4-digit place value is grade 4 (4.NBT.1-2)"
+      }
+    },
+    {
+      "topicId": "mt_k2WE0-22-4",
+      "name": "Unit fractions",
+      "standards": [],
+      "notes": {
+        "2": "Fractions of sets are UK content (CCSS 4.NF.4/5.NF.4)."
+      }
+    },
+    {
+      "topicId": "mt_kDMKJ5Ztt6",
+      "name": "Dividing by 10 and 100",
+      "standards": [],
+      "notes": {
+        "3": "Dividing by 10/100 into decimals is grade 5 (5.NBT.2)"
+      }
+    },
+    {
+      "topicId": "mt_kJ5wYzO8qC",
+      "name": "Explaining Mathematical Reasoning",
+      "standards": [
+        {
+          "key": "ccss-math:MP.3",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_kJGCjnuelW",
+      "name": "Place value understanding and number facts",
+      "standards": [
+        {
+          "key": "ccss-math:1.NBT.2",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:1.NBT.4",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Tens/ones partitioning used to add."
+      }
+    },
+    {
+      "topicId": "mt_kdWoAel3Zl",
+      "name": "Tenths (age 9+)",
+      "standards": [],
+      "notes": {
+        "4": "Thousandths are grade 5 (5.NBT.3)"
+      }
+    },
+    {
+      "topicId": "mt_lC_Q5mSL_I",
+      "name": "Numbers to 10,000",
+      "standards": [],
+      "notes": {
+        "3": "Numbers to 10,000 are grade 4 (4.NBT.2)"
+      }
+    },
+    {
+      "topicId": "mt_lMz9nAs7VO",
+      "name": "Early Math Vocabulary",
+      "standards": [
+        {
+          "key": "ccss-math:MP.6",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:K.CC.6",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:K.G.1",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:K.G.4",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "K": "Precise vocabulary for comparing groups, positions, shape parts."
+      }
+    },
+    {
+      "topicId": "mt_lNGpnILM5C",
+      "name": "Reading Decimal Places",
+      "standards": [
+        {
+          "key": "ccss-math:5.NBT.1",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:5.NBT.3.a",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "5": "Digit values to thousandths"
+      }
+    },
+    {
+      "topicId": "mt_lU-2aTRB9f",
+      "name": "Division with Decimals",
+      "standards": [
+        {
+          "key": "ccss-math:5.NBT.7",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "5": "Dividing decimals by whole numbers"
+      }
+    },
+    {
+      "topicId": "mt_liIW336odh",
+      "name": "Classifying shapes by properties",
+      "standards": [
+        {
+          "key": "ccss-math:5.G.3",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-math:5.G.4",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_lvaSGHwvQ5",
+      "name": "Real-world fraction multiplication",
+      "standards": [
+        {
+          "key": "ccss-math:5.NF.6",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_lxaM6iVpdr",
+      "name": "Translating and reflecting shapes",
+      "standards": [],
+      "notes": {
+        "5": "Translations/reflections on the plane are 8.G"
+      }
+    },
+    {
+      "topicId": "mt_mFJ-2ZF6Tk",
+      "name": "Estimating and comparing money",
+      "standards": [],
+      "notes": {
+        "3": "Decimal money and mixed-unit comparisons are grade 4 (4.MD.2)"
+      }
+    },
+    {
+      "topicId": "mt_mQcWGh02no",
+      "name": "Choosing the right strategy",
+      "standards": [
+        {
+          "key": "ccss-math:MP.5",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:2.MD.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "2": "Selecting appropriate measuring tools."
+      }
+    },
+    {
+      "topicId": "mt_mpS-JK_p_m",
+      "name": "Adding and subtracting (age 8+)",
+      "standards": [
+        {
+          "key": "ccss-math:3.NBT.2",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "3": "Column algorithms for add/subtract; extends past 1000 (4-digit is 4.NBT.4)"
+      }
+    },
+    {
+      "topicId": "mt_mr_Vk7FGzK",
+      "name": "Adding and subtracting",
+      "standards": [
+        {
+          "key": "ccss-math:K.OA.2",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "K": "Add/subtract within 10 is covered; calculations to 20 go beyond K."
+      }
+    },
+    {
+      "topicId": "mt_mywsN77hGZ",
+      "name": "Mathematical Precision",
+      "standards": [
+        {
+          "key": "ccss-math:MP.6",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "3": "24-hour notation evidence is UK-specific"
+      }
+    },
+    {
+      "topicId": "mt_n0AlyLQwC9",
+      "name": "Perimeter of Compound Shapes",
+      "standards": [],
+      "notes": {
+        "4": "Composite rectilinear perimeter is closer to 3.MD.8; 4.MD.3 is about rectangle formulas"
+      }
+    },
+    {
+      "topicId": "mt_nTL-owFJTF",
+      "name": "Estimating answers (age 10+)",
+      "standards": [
+        {
+          "key": "ccss-math:5.MD.5",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:5.MD.5.a",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-math:5.MD.5.b",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "5": "Name is mislabeled; content is volume of prisms"
+      }
+    },
+    {
+      "topicId": "mt_nZkL5-XjRX",
+      "name": "Factor Pairs & Commutativity",
+      "standards": [
+        {
+          "key": "ccss-math:3.OA.5",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "3": "Commutativity as strategy; factor pairs are 4.OA.4"
+      }
+    },
+    {
+      "topicId": "mt_ndGqFPWyen",
+      "name": "Fractions of a whole",
+      "standards": [
+        {
+          "key": "ccss-math:3.NF.1",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_nyK25mNOeR",
+      "name": "Showing Your Working",
+      "standards": [
+        {
+          "key": "ccss-math:MP.3",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_oDU_8zMZjp",
+      "name": "Mental addition and subtraction (age 7+)",
+      "standards": [
+        {
+          "key": "ccss-math:2.NBT.7",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "2": "Three-digit ± ones."
+      }
+    },
+    {
+      "topicId": "mt_o_p-3tCxiM",
+      "name": "Mixed numbers and improper fractions",
+      "standards": [
+        {
+          "key": "ccss-math:4.NF.3.c",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "4": "Mixed/improper conversion is the strategy named in 4.NF.3.c"
+      }
+    },
+    {
+      "topicId": "mt_oqziWKry-L",
+      "name": "Angle Sum Rules",
+      "standards": [
+        {
+          "key": "ccss-math:4.MD.7",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "4": "Vertically opposite angles are grade 7"
+      }
+    },
+    {
+      "topicId": "mt_p-nbe0w_lf",
+      "name": "Division with remainders",
+      "standards": [
+        {
+          "key": "ccss-math:4.OA.3",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_p6MhZJYYPN",
+      "name": "Metric & Customary Conversion",
+      "standards": [],
+      "notes": {
+        "4": "Metric-customary approximate equivalences: CCSS converts only within one system; UK content"
+      }
+    },
+    {
+      "topicId": "mt_pAcaehday5",
+      "name": "Representing numbers with objects",
+      "standards": [
+        {
+          "key": "ccss-math:K.CC.5",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "K": "Showing a given number with counters = counting out that many objects."
+      }
+    },
+    {
+      "topicId": "mt_pbuhUQJjtt",
+      "name": "Dollars & Cents Notation",
+      "standards": [],
+      "notes": {
+        "1": "$ and ¢ notation is 2.MD.8; no grade 1 equivalent."
+      }
+    },
+    {
+      "topicId": "mt_pjfmCMMPjO",
+      "name": "Mental multiplication and division",
+      "standards": [
+        {
+          "key": "ccss-math:3.NBT.3",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:3.OA.5",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "3": "40x6 via place value; associative/identity properties"
+      }
+    },
+    {
+      "topicId": "mt_pyMD_SIiYO",
+      "name": "Justifying mathematical reasoning",
+      "standards": [
+        {
+          "key": "ccss-math:MP.3",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:2.NBT.9",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "2": "Explaining why addition methods work using place value."
+      }
+    },
+    {
+      "topicId": "mt_q9EaJc2FP8",
+      "name": "Long multiplication",
+      "standards": [
+        {
+          "key": "ccss-math:4.NBT.5",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_qUGMyMYn9m",
+      "name": "Degrees and turns",
+      "standards": [
+        {
+          "key": "ccss-math:4.MD.5",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:4.MD.5.a",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:4.MD.5.b",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_r8XnXwRA6g",
+      "name": "Representing numbers with objects (age 8+)",
+      "standards": [
+        {
+          "key": "ccss-math:3.MD.3",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_r8c43QB6wx",
+      "name": "Classifying shapes by line properties",
+      "standards": [
+        {
+          "key": "ccss-math:4.G.2",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_rCMdwG-YOE",
+      "name": "Dividing unit fractions and whole numbers",
+      "standards": [
+        {
+          "key": "ccss-math:5.NF.7",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:5.NF.7.c",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_s2mfRBoTal",
+      "name": "Number bonds",
+      "standards": [
+        {
+          "key": "ccss-math:K.OA.3",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:K.OA.4",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:K.OA.5",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "K": "Number pairs/bonds; recall to 20 exceeds K fluency within 5."
+      }
+    },
+    {
+      "topicId": "mt_sA2OvTiech",
+      "name": "Decimals to three places",
+      "standards": [],
+      "notes": {
+        "4": "Three-decimal-place operations are grade 5 (5.NBT)"
+      }
+    },
+    {
+      "topicId": "mt_sBcRdUfAzV",
+      "name": "2-D shapes (age 6+)",
+      "standards": [
+        {
+          "key": "ccss-math:1.G.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Defining attributes (number of sides); line symmetry is 4.G.3."
+      }
+    },
+    {
+      "topicId": "mt_t0g2SlP404",
+      "name": "The 0-to-1 Probability Scale",
+      "standards": [],
+      "notes": {
+        "5": "Probability scale is 7.SP.5"
+      }
+    },
+    {
+      "topicId": "mt_tAtMET4EIU",
+      "name": "Counting forwards and backwards (age 9+)",
+      "standards": [],
+      "notes": {
+        "4": "Counting in powers of ten: UK objective, no direct grade-4 standard"
+      }
+    },
+    {
+      "topicId": "mt_u23IGDxOpk",
+      "name": "Parallel and perpendicular lines",
+      "standards": [],
+      "notes": {
+        "2": "Parallel/perpendicular lines are 4.G.1-2."
+      }
+    },
+    {
+      "topicId": "mt_u5HkSxZECM",
+      "name": "Pictograms and tally charts (age 6+)",
+      "standards": [
+        {
+          "key": "ccss-math:MP.6",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Data vocabulary topic; discrete/continuous, line/pie charts have no grade 1 content equivalent.",
+        "2": "Data vocabulary topic; discrete/continuous, line/pie charts have no grade 2 content equivalent.",
+        "3": "Data vocabulary (incl. continuous data, line/pie graphs) beyond grade 3; precision of terms is central"
+      }
+    },
+    {
+      "topicId": "mt_uG2mjHFOlO",
+      "name": "Spotting mathematical patterns",
+      "standards": [
+        {
+          "key": "ccss-math:MP.7",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:K.NBT.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "K": "Teen numbers as ten and some ones."
+      }
+    },
+    {
+      "topicId": "mt_vJUa62bxeR",
+      "name": "2-D shapes (age 7+)",
+      "standards": [
+        {
+          "key": "ccss-math:2.G.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "2": "Drawing triangles/pentagons/hexagons and making cubes."
+      }
+    },
+    {
+      "topicId": "mt_vKcxX6iNOA",
+      "name": "Fraction Notation",
+      "standards": [
+        {
+          "key": "ccss-math:3.NF.1",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Fraction notation/terms are 3.NF onward; no grade 1 equivalent.",
+        "2": "Fraction notation/terms are 3.NF onward; 2.G.3 uses words only.",
+        "3": "Numerator/denominator meaning; improper/mixed/simplest form go beyond grade 3"
+      }
+    },
+    {
+      "topicId": "mt_vXRzMbiPff",
+      "name": "Negative Numbers",
+      "standards": [],
+      "notes": {
+        "3": "Negative numbers are grade 6 (6.NS.5); UK Year 4 content"
+      }
+    },
+    {
+      "topicId": "mt_vmW2cb5c7A",
+      "name": "Ratio (age 10+)",
+      "standards": [],
+      "notes": {
+        "5": "Name mislabeled; mental calculation strategies have no specific grade-5 standard"
+      }
+    },
+    {
+      "topicId": "mt_vnJEztczji",
+      "name": "Nets of 3-D Shapes",
+      "standards": [],
+      "notes": {
+        "3": "Nets are grade 6 (6.G.4); nothing at grade 3",
+        "4": "Nets are grade 6 (6.G.4)",
+        "5": "Nets are 6.G.4; nothing at grade 5"
+      }
+    },
+    {
+      "topicId": "mt_wB-GBDkoNr",
+      "name": "Decimals and fractions",
+      "standards": [],
+      "notes": {
+        "3": "Decimal money/measure problems belong to grades 4-5"
+      }
+    },
+    {
+      "topicId": "mt_wE7-Gs9ENL",
+      "name": "Measuring Perimeters",
+      "standards": [],
+      "notes": {
+        "2": "Perimeter is 3.MD.8."
+      }
+    },
+    {
+      "topicId": "mt_wPgpMJ0-PA",
+      "name": "Multiplying and dividing (age 10+)",
+      "standards": [
+        {
+          "key": "ccss-math:5.NBT.2",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "5": "Decimal-point shift when multiplying/dividing by powers of 10"
+      }
+    },
+    {
+      "topicId": "mt_wQ89AEXhz3",
+      "name": "Times tables (age 7+)",
+      "standards": [],
+      "notes": {
+        "2": "Times tables are 3.OA.7."
+      }
+    },
+    {
+      "topicId": "mt_wUSbRt3-qw",
+      "name": "3-D shapes (age 9+)",
+      "standards": [],
+      "notes": {
+        "4": "3-D shapes from 2-D representations: no grade-4 CCSS standard"
+      }
+    },
+    {
+      "topicId": "mt_wh3UqnWsa7",
+      "name": "Multiplication as repeated addition (age 6+)",
+      "standards": [],
+      "notes": {
+        "1": "Multiplication/division problems are 2.OA.4/3.OA in CCSS."
+      }
+    },
+    {
+      "topicId": "mt_wzAZ8qFDc4",
+      "name": "Mental and written addition and subtraction",
+      "standards": [],
+      "notes": {
+        "1": "Multi-step problems within 100 and with measures match 2.OA.1/2.MD.5, beyond grade 1."
+      }
+    },
+    {
+      "topicId": "mt_x8TshvbbQT",
+      "name": "Reading and writing numbers to 100",
+      "standards": [
+        {
+          "key": "ccss-math:K.CC.3",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "K": "Writing numerals 0-20 covered; 21-100 goes beyond K (1.NBT.1)."
+      }
+    },
+    {
+      "topicId": "mt_xMt1TLTs--",
+      "name": "Working with Large Numbers",
+      "standards": [
+        {
+          "key": "ccss-math:4.NBT.2",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:4.NBT.3",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_xPqczp7zPX",
+      "name": "Mentally adding hundreds to 3-digit numbers",
+      "standards": [
+        {
+          "key": "ccss-math:2.NBT.8",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-math:2.NBT.7",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "2": "Mentally adding/subtracting hundreds."
+      }
+    },
+    {
+      "topicId": "mt_xSgAgg9Ej_",
+      "name": "Equally Likely Outcomes",
+      "standards": [],
+      "notes": {
+        "4": "Probability is grade 7 (7.SP.5-7)"
+      }
+    },
+    {
+      "topicId": "mt_xfwv0M83mJ",
+      "name": "Precise Math Vocabulary",
+      "standards": [
+        {
+          "key": "ccss-math:MP.6",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_xq3YHZ2zeR",
+      "name": "Parts of a circle",
+      "standards": [],
+      "notes": {
+        "5": "Circle parts are 7.G.4"
+      }
+    },
+    {
+      "topicId": "mt_y1XCVsIelg",
+      "name": "Prime numbers",
+      "standards": [
+        {
+          "key": "ccss-math:4.OA.4",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "4": "Prime/composite to 100; prime factors beyond grade 4"
+      }
+    },
+    {
+      "topicId": "mt_y1n0Zwhoca",
+      "name": "Area (age 8+)",
+      "standards": [
+        {
+          "key": "ccss-math:3.MD.6",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_yqZiX6vS7D",
+      "name": "Real-World Mathematical Modeling",
+      "standards": [
+        {
+          "key": "ccss-math:MP.4",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "5": "Modeling with mathematics"
+      }
+    },
+    {
+      "topicId": "mt_zMEvtigoM3",
+      "name": "Numbers on a number line",
+      "standards": [
+        {
+          "key": "ccss-math:MP.5",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_zOWwLxa77y",
+      "name": "Reading ×, ÷, and = Symbols",
+      "standards": [],
+      "notes": {
+        "1": "Multiplication/division notation is grade 3 in CCSS."
+      }
+    },
+    {
+      "topicId": "mt_zd0YkB3xNj",
+      "name": "Measuring mass and weight",
+      "standards": [
+        {
+          "key": "ccss-math:K.MD.2",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "K": "Balance comparison of two masses; unit measurement goes beyond K."
+      }
+    }
+  ]
+}

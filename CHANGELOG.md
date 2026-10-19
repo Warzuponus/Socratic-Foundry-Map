@@ -14,6 +14,7 @@ US adaptation of Marble Skill Taxonomy v1.
 - UK school years and key stages replaced with US grades.
 
 ### Added
+- 262 Common Core math links for K–6 topics (`adaptation/us/links/ccss-math.json`, applied by `scripts/apply-standard-links.mjs`). All K–5 CCSS-M standards now link to at least one topic; grade 6 is at 31 of 47.
 - `gradeStart` / `gradeEnd` on topics and `gradeStart` on clusters, with schema and validator support.
 - `scripts/americanize.mjs` and `adaptation/us/` (rules, spelling map, change log, review list).
 

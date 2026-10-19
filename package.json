@@ -8,6 +8,7 @@
   "homepage": "https://github.com/Warzuponus/Socratic-Foundry-Map",
   "scripts": {
     "validate": "node scripts/validate.mjs",
-    "americanize": "node scripts/americanize.mjs"
+    "americanize": "node scripts/americanize.mjs",
+    "apply-links": "node scripts/apply-standard-links.mjs"
   }
 }

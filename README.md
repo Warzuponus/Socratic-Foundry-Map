@@ -15,6 +15,7 @@ This is an adaptation of the [Marble Skill Taxonomy v1](https://github.com/withm
 | Pounds and pence to dollars and cents; UK coin topics rewritten for pennies, nickels, dimes and quarters | `adaptation/us/rules.mjs` |
 | UK school years and key stages to US grades (Year 3 → grade 2, KS2 → grades 2–5) | `adaptation/us/rules.mjs` |
 | `gradeStart` / `gradeEnd` on every topic and `gradeStart` on every cluster (PK–12) | `data/topics.json`, `data/clusters.json`, `schema/` |
+| 262 new Common Core math links for K–6 topics (every K–5 math standard now has at least one topic), with alignment and a note per link | `adaptation/us/links/ccss-math.json` |
 | Every changed text field, before and after | `adaptation/us/changes.csv` |
 | Topics that still need a human rewrite (UK spelling rules, English history, metric-only measurement) | `adaptation/us/review-needed.md` |
 
@@ -27,8 +28,9 @@ UK ages map to US grades with age 5 as kindergarten. A topic for ages 7–9 beco
 ## Re-running the conversion
 
 ```bash
-node scripts/americanize.mjs   # rewrites data/*.json, changes.csv, review-needed.md
-node scripts/validate.mjs      # structure, references, grades, checksums
+node scripts/americanize.mjs           # rewrites data/*.json, changes.csv, review-needed.md
+node scripts/apply-standard-links.mjs  # adds the links in adaptation/us/links/ to topics.json
+node scripts/validate.mjs              # structure, references, grades, checksums
 ```
 
 The conversion is safe to re-run: its rules only match UK forms, so a second run changes nothing. To change a conversion, edit `adaptation/us/rules.mjs` or `spelling.json`, restore `data/` from the first commit (`git checkout $(git rev-list --max-parents=0 HEAD) -- data`), and re-run.
