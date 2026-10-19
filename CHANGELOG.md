@@ -14,6 +14,7 @@ US adaptation of Marble Skill Taxonomy v1.
 - UK school years and key stages replaced with US grades.
 
 ### Added
+- 130 Common Core ELA links for K–6 English topics (`adaptation/us/links/ccss-ela.json`). Every K–6 CCSS ELA standard in the RF, RL, RI, W, SL and L strands now links to at least one topic except W.5.10; six standards or sub-standards (SL.6.1b, L.6.1a–c, L.6.5b, W.5.10) have no honest match and are listed with reasons. `scripts/apply-standard-links.mjs` now widens `gradeStart`/`gradeEnd` to cover linked standards, which changed the grades of 12 topics.
 - 262 Common Core math links for K–6 topics (`adaptation/us/links/ccss-math.json`, applied by `scripts/apply-standard-links.mjs`). All K–5 CCSS-M standards now link to at least one topic; grade 6 is at 31 of 47.
 - `gradeStart` / `gradeEnd` on topics and `gradeStart` on clusters, with schema and validator support.
 - `scripts/americanize.mjs` and `adaptation/us/` (rules, spelling map, change log, review list).

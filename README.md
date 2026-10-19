@@ -16,6 +16,7 @@ This is an adaptation of the [Marble Skill Taxonomy v1](https://github.com/withm
 | UK school years and key stages to US grades (Year 3 → grade 2, KS2 → grades 2–5) | `adaptation/us/rules.mjs` |
 | `gradeStart` / `gradeEnd` on every topic and `gradeStart` on every cluster (PK–12) | `data/topics.json`, `data/clusters.json`, `schema/` |
 | 262 new Common Core math links for K–6 topics (every K–5 math standard now has at least one topic), with alignment and a note per link | `adaptation/us/links/ccss-math.json` |
+| 130 new Common Core ELA links for K–6 English topics (every K–6 RF, RL, RI, W, SL and L standard except W.5.10 now has at least one topic), with alignment, notes, and the six standards left unlinked and why | `adaptation/us/links/ccss-ela.json` |
 | Every changed text field, before and after | `adaptation/us/changes.csv` |
 | Topics that still need a human rewrite (UK spelling rules, English history, metric-only measurement) | `adaptation/us/review-needed.md` |
 
@@ -29,7 +30,7 @@ UK ages map to US grades with age 5 as kindergarten. A topic for ages 7–9 beco
 
 ```bash
 node scripts/americanize.mjs           # rewrites data/*.json, changes.csv, review-needed.md
-node scripts/apply-standard-links.mjs  # adds the links in adaptation/us/links/ to topics.json
+node scripts/apply-standard-links.mjs  # adds the links in adaptation/us/links/ to topics.json, widens grades to match
 node scripts/validate.mjs              # structure, references, grades, checksums
 ```
 
