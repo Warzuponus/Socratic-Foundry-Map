@@ -28,8 +28,8 @@
   },
   "files": {
     "topics.json": {
-      "bytes": 1756186,
-      "sha256": "6c2fd14ab480074fb04fece8779322a8b76c284bb52b108f7056439dfd30083e"
+      "bytes": 1760934,
+      "sha256": "6e3b0661e3bf5508d93a78b1c1c926ad761940e6e3c990e6e1ea3046e9f2ed55"
     },
     "dependencies.json": {
       "bytes": 699716,

@@ -1,0 +1,388 @@
+{
+  "reviewedBy": "Claude (AI-proposed, pending human review)",
+  "date": "2026-10-19",
+  "method": "Topics whose evidence lists research citations (paper titles, journals, years, author names) instead of observable criteria. Each citation line is replaced with observable, child-level criteria grounded in the topic's description and assessmentPrompt. `before` keeps the original citation text. Applied by scripts/apply-evidence-rewrites.mjs.",
+  "rewrites": [
+    {
+      "topicId": "mt_QB4qIGJIIj",
+      "name": "Author's word choices",
+      "before": [
+        "authorial awareness research",
+        "Understanding Author's Purpose (Firkins)",
+        "collaborative multilayered text interpretation in 5-8 year olds"
+      ],
+      "after": [
+        "Point out a word or phrase an author chose and say how it made them feel or what it made them picture",
+        "Suggest a different word the author could have used and explain how it would change the effect",
+        "Explain that authors choose words, order, and tone on purpose to affect the reader"
+      ]
+    },
+    {
+      "topicId": "mt_lp3qyEujIv",
+      "name": "Inference vs Explicit Meaning",
+      "before": [
+        "inference vs literal comprehension development research",
+        "online inference making and comprehension monitoring (PMC 2021)"
+      ],
+      "after": [
+        "Point to the words in a text that state a fact directly",
+        "Identify something they worked out from clues that the text does not say outright",
+        "Sort statements about a text into \"the text says\" and \"I figured out\", and explain the clues behind each inference"
+      ]
+    },
+    {
+      "topicId": "mt_LH714Riydn",
+      "name": "Knowing What You Don't Know",
+      "before": [
+        "Noticing Unfamiliar Words Assessment research (grade 2+)",
+        "word consciousness and vocabulary metacognition research",
+        "Building Word Knowledge e-Book (PMC 2019)"
+      ],
+      "after": [
+        "Sort words from a text into \"know well\", \"half-know\", and \"don't know\"",
+        "Notice a half-known word while reading and say what they think it means and how sure they are",
+        "Check an uncertain word by using context, a dictionary, or asking, then say whether their guess was right"
+      ]
+    },
+    {
+      "topicId": "mt_GugVunb2lI",
+      "name": "Monitoring Comprehension",
+      "before": [
+        "comprehension monitoring research",
+        "Metacognitive Monitoring in Reading Comprehension (MDPI 2024)"
+      ],
+      "after": [
+        "Notice and say when they have read a sentence or paragraph without understanding it",
+        "Stop and reread, ask a question, or look at a picture when meaning breaks down",
+        "Explain the difference between saying the words and understanding what they mean"
+      ]
+    },
+    {
+      "topicId": "mt_scBgiMKhG_",
+      "name": "Reading for Meaning",
+      "before": [
+        "Simple View of Reading (Gough & Tunmer)",
+        "reading comprehension research on comprehension-decoding separation"
+      ],
+      "after": [
+        "Tell in their own words what a short text they just read or heard was about",
+        "Say \"I read it but I don't know what it means\" when they can say the words but not explain them",
+        "Explain that reading means understanding the words, not just saying them correctly"
+      ]
+    },
+    {
+      "topicId": "mt_haNr13NIuN",
+      "name": "Reflecting on Your Language Use",
+      "before": [
+        "metalinguistic awareness development",
+        "register and audience awareness research"
+      ],
+      "after": [
+        "Describe how they speak or write differently for two audiences (e.g., a friend vs. a teacher) and give examples",
+        "Explain why a change in audience or purpose calls for different words, tone, or formality",
+        "Name one part of their reading, writing, or speaking they want to improve and how they plan to work on it"
+      ]
+    },
+    {
+      "topicId": "mt_U_8iVFZuHH",
+      "name": "Reviewing Own Writing",
+      "before": [
+        "writing self-evaluation research grades 3-5",
+        "metacognitive awareness of writing (Frontiers 2025)"
+      ],
+      "after": [
+        "State the effect they wanted their writing to have on a reader (e.g., make them laugh, persuade them)",
+        "Reread their own writing and point to a part that does or does not achieve that effect",
+        "Change a sentence or section to make it work better for the reader, not only to fix spelling or punctuation"
+      ]
+    },
+    {
+      "topicId": "mt_wWlZoLQBR6",
+      "name": "Checking Sources Against Each Other",
+      "before": [
+        "Wineburg corroboration heuristic",
+        "Historical Thinking in the Elementary Years (ERIC)"
+      ],
+      "after": [
+        "Compare two sources about the same event and list facts they agree on and facts they disagree on",
+        "Explain why checking more than one source gives a better picture than trusting just one",
+        "Suggest a reason two sources might disagree and what other evidence could settle it"
+      ]
+    },
+    {
+      "topicId": "mt_2GDBmKCJxs",
+      "name": "Different Accounts of the Same Event",
+      "before": [
+        "Wineburg corroboration heuristic",
+        "Initiating Historical Thinking in Elementary Schools"
+      ],
+      "after": [
+        "Retell two different accounts of the same event and say how they differ",
+        "Explain that two people can both be honest and still describe an event differently",
+        "Suggest a reason two accounts differ (e.g., where each person was or what they cared about)"
+      ]
+    },
+    {
+      "topicId": "mt_9REmUc8r4D",
+      "name": "Evidence from the Past",
+      "before": [
+        "Wineburg historical thinking framework",
+        "Historical Thinking in the Elementary Years (ERIC)"
+      ],
+      "after": [
+        "Answer \"How do we know?\" about a past event by naming a kind of evidence (an object, building, picture, document, or story)",
+        "Sort objects or pictures into things from long ago and things from today, and explain the clues",
+        "Explain that people learn about the past from things that survived or were left behind"
+      ]
+    },
+    {
+      "topicId": "mt_Lu4H4mbsqO",
+      "name": "Evidence Versus Interpretation",
+      "before": [
+        "Development of historical understanding among 9-14 year olds",
+        "Ways of Seeing: Evidence and Learning in the History Classroom (RRCHNM)"
+      ],
+      "after": [
+        "Sort statements about a historical topic into evidence (what survived) and interpretation (what someone argues from it)",
+        "Explain how two historians could reach different conclusions from the same evidence",
+        "Support their own interpretation of a past event with specific pieces of evidence"
+      ]
+    },
+    {
+      "topicId": "mt_TTzJTF-OkG",
+      "name": "Questioning Historical Sources",
+      "before": [
+        "Wineburg sourcing heuristic",
+        "Teaching Historical Thinking Using Primary Sources (Library of Congress)"
+      ],
+      "after": [
+        "Ask who made a source, when, and why before using it",
+        "Explain how a creator's purpose or point of view might affect what a source shows or leaves out",
+        "Decide whether a source is more or less trustworthy for a given question, and explain why"
+      ]
+    },
+    {
+      "topicId": "mt_IlyE-Sm8k5",
+      "name": "Understanding People in Their Own Time",
+      "before": [
+        "Historical Empathy: A Cognitive-Affective Theory (ERIC)",
+        "Grades 3–5 historical empathy research"
+      ],
+      "after": [
+        "Explain why people in a past time might have thought a practice was normal, using what life was like then",
+        "Describe how a past action looks different when judged by today's values and by the values of its own time",
+        "Avoid calling people in the past \"stupid\" or \"bad\" without first considering the beliefs and knowledge of their time"
+      ]
+    },
+    {
+      "topicId": "mt_mvXufozy2s",
+      "name": "Asking for Help",
+      "before": [
+        "Hattie visible learning",
+        "self-regulated learning research"
+      ],
+      "after": [
+        "Try a task on their own before asking for help",
+        "Ask for help when still stuck, saying what they tried and where they got stuck",
+        "Ask for help calmly instead of giving up or getting upset"
+      ]
+    },
+    {
+      "topicId": "mt_32B7xjUPwF",
+      "name": "Connecting New & Old Ideas",
+      "before": [
+        "elaborative encoding",
+        "schema theory (Bartlett, Rumelhart)"
+      ],
+      "after": [
+        "Connect a new idea to something they already know (e.g., \"That's like...\")",
+        "Explain how a new idea is similar to and different from something learned before",
+        "Use what they already know to make sense of a new example"
+      ]
+    },
+    {
+      "topicId": "mt_klyw-tdlhP",
+      "name": "Feeling of not understanding",
+      "before": [
+        "comprehension monitoring research",
+        "Flavell metacognitive monitoring"
+      ],
+      "after": [
+        "Say when something they are reading or hearing does not make sense, instead of carrying on",
+        "Point to the word, sentence, or step that confused them",
+        "Ask a question or reread when they notice they are confused"
+      ]
+    },
+    {
+      "topicId": "mt_2uHYdoxD0H",
+      "name": "Finding Knowledge Gaps",
+      "before": [
+        "metacognitive monitoring research",
+        "Flavell metacognition framework"
+      ],
+      "after": [
+        "Rate their understanding of each part of a topic as solid, shaky, or not yet, with honest reasons",
+        "Test themselves on a part they think they know and check whether they really do",
+        "Make a plan to work on the parts they rated shaky or not yet"
+      ]
+    },
+    {
+      "topicId": "mt_TDUpy57QVM",
+      "name": "Learning from Mistakes",
+      "before": [
+        "error analysis research",
+        "Hattie feedback effect size"
+      ],
+      "after": [
+        "Look back at a wrong answer and explain what went wrong",
+        "Tell whether a mistake came from misunderstanding, missing a step, or carelessness",
+        "Correct the mistake and say what they will do differently next time"
+      ]
+    },
+    {
+      "topicId": "mt_v5yDTWEiyQ",
+      "name": "Reflecting After Learning",
+      "before": [
+        "Kolb reflective learning cycle",
+        "Hattie & Timperley feedback model"
+      ],
+      "after": [
+        "After finishing a project or topic, describe what helped them learn most",
+        "Name something that was confusing and what they did about it",
+        "Say one thing they would do differently next time and why"
+      ]
+    },
+    {
+      "topicId": "mt_LE7nFEwS12",
+      "name": "Thinking Before Starting",
+      "before": [
+        "prior knowledge activation research",
+        "Ausubel meaningful learning"
+      ],
+      "after": [
+        "Before starting a new topic or task, tell what they already know about it",
+        "Ask themselves what they want to find out before they begin",
+        "Use something they already know to help start a new task (e.g., \"This is like the problem we did yesterday\")"
+      ]
+    },
+    {
+      "topicId": "mt_99G6Msdzw-",
+      "name": "Transferring Skills",
+      "before": [
+        "transfer of learning research",
+        "Perkins & Salomon transfer taxonomy"
+      ],
+      "after": [
+        "Name a skill or strategy from one subject that could help in another (e.g., using a chart in science and in writing)",
+        "Use a strategy learned in one situation to solve a problem in a new one",
+        "Explain why a strategy works in both places"
+      ]
+    },
+    {
+      "topicId": "mt_TU3BcLOgiV",
+      "name": "Feelings Versus Actions",
+      "before": [
+        "emotion regulation development research",
+        "Effects of Age and Gender in Emotion Regulation (PMC 2020)",
+        "expressive control to emotion regulation (PMC)"
+      ],
+      "after": [
+        "Explain that they can feel angry, scared, or jealous without having to act on it right away",
+        "Describe something they could do while having a strong feeling instead of hitting, yelling, or grabbing",
+        "Use a calming step, such as taking a breath or walking away, before acting on a strong feeling"
+      ]
+    },
+    {
+      "topicId": "mt_69hFD2NgGe",
+      "name": "Naming Your Feelings",
+      "before": [
+        "emotional literacy research",
+        "Fostering Emotional Literacy in Young Children (HeadStart.gov)",
+        "emotion vocabulary development 4-11 years (PMC)"
+      ],
+      "after": [
+        "Name the feeling they are having (e.g., happy, sad, angry, scared, excited, frustrated)",
+        "Match feeling words to faces, pictures, or story characters",
+        "Say how their body feels with a strong emotion (e.g., \"My tummy feels tight when I'm nervous\")"
+      ]
+    },
+    {
+      "topicId": "mt_H8dEMH_wik",
+      "name": "Patterns in Your Own Reactions",
+      "before": [
+        "middle childhood self-reliance in emotion regulation",
+        "7-year developmental shift in self-understanding research"
+      ],
+      "after": [
+        "Describe a situation that often triggers a strong feeling for them (e.g., being tired, left out, or put on the spot)",
+        "Notice a pattern in their own reactions (e.g., \"I get grumpy when I'm hungry\")",
+        "Suggest a way to plan ahead for a situation they know is hard for them"
+      ]
+    },
+    {
+      "topicId": "mt_bkMDDstwwG",
+      "name": "Personal Growth Over Time",
+      "before": [
+        "emotion vocabulary development continues to age 11 (PMC)",
+        "self-reflection importance in children research"
+      ],
+      "after": [
+        "Name something that used to be hard for them and is easier now",
+        "Explain what helped them change, such as practice, help from others, or a new strategy",
+        "Describe something that is hard now that they expect to get better at, and how"
+      ]
+    },
+    {
+      "topicId": "mt_obF-6VYRya",
+      "name": "Changing Your Mind with Evidence",
+      "before": [
+        "belief revision in children research (PMC 2020)",
+        "hypothesis testing and argumentation from evidence in young children"
+      ],
+      "after": [
+        "Compare their prediction with the result and say whether it matched",
+        "Accept a result that does not match their prediction instead of insisting the experiment went wrong",
+        "Change their explanation to fit new evidence and explain what made them change their mind"
+      ]
+    },
+    {
+      "topicId": "mt_X0Tr8IYaEd",
+      "name": "Correlation vs Causation",
+      "before": [
+        "developmental changes in children's recognition of evidence relevance to causal explanations",
+        "causal learning research"
+      ],
+      "after": [
+        "Explain that two things happening together does not prove that one causes the other",
+        "Suggest another reason two things might happen together (e.g., a third factor)",
+        "Describe a fair test that could show whether one thing really causes the other"
+      ]
+    },
+    {
+      "topicId": "mt_QrVF5n7vci",
+      "name": "Could there be another explanation?",
+      "before": [
+        "prompts to consider alternative possible worlds research (6-7 year olds)",
+        "scientific thinking promotes critical thinking (MDPI 2025)"
+      ],
+      "after": [
+        "Give at least one other possible explanation for a result they observed",
+        "Suggest how they could test which explanation is right",
+        "Explain why the first explanation that fits is not always the correct one"
+      ]
+    },
+    {
+      "topicId": "mt_Hw70LI5xza",
+      "name": "Observation vs Interpretation",
+      "before": [
+        "observation vs interpretation in primary science",
+        "BERA: children's observation skills in nature"
+      ],
+      "after": [
+        "Describe what they actually saw, heard, or measured in a science activity",
+        "Sort statements into observations (\"the ice melted\") and interpretations (\"the ice melted because of the heat\")",
+        "Point to the observation that supports an interpretation"
+      ]
+    }
+  ]
+}

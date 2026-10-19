@@ -9,6 +9,7 @@
   "scripts": {
     "validate": "node scripts/validate.mjs",
     "americanize": "node scripts/americanize.mjs",
-    "apply-links": "node scripts/apply-standard-links.mjs"
+    "apply-links": "node scripts/apply-standard-links.mjs",
+    "apply-evidence": "node scripts/apply-evidence-rewrites.mjs"
   }
 }
