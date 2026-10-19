@@ -24,6 +24,8 @@
           "description": { "type": "string" },
           "ageRangeStart": { "type": ["integer", "null"] },
           "ageRangeEnd": { "type": ["integer", "null"] },
+          "gradeStart": { "type": "string", "enum": ["PK", "K", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"], "description": "First US grade (PK = pre-K). From the age range, widened to cover linked US standards." },
+          "gradeEnd": { "type": "string", "enum": ["PK", "K", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"], "description": "Last US grade." },
           "centrality": { "type": ["number", "null"] },
           "evidence": { "type": "array", "items": { "type": "string" } },
           "assessmentPrompt": { "type": ["string", "null"] },

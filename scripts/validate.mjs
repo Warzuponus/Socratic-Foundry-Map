@@ -36,6 +36,7 @@ check(standards.curriculumCount === standards.curricula.length, `curricula: curr
 check(clusters.clusterCount === clusters.clusters.length, `clusters: clusterCount != length`);
 
 // --- topic ids + basic field validity --------------------------------------
+const GRADES = ['PK', 'K', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12'];
 const TYPES = new Set(['CONCEPTUAL', 'PROCEDURAL', 'REPRESENTATIONAL', 'LANGUAGE', 'META']);
 const topicIds = new Set();
 for (const t of topics.topics) {
@@ -43,6 +44,12 @@ for (const t of topics.topics) {
   check(TYPES.has(t.type), `topic ${t.id}: bad type ${t.type}`);
   check(typeof t.description === 'string' && t.description.length > 0, `topic ${t.id}: empty description`);
   check(Array.isArray(t.evidence), `topic ${t.id}: evidence not array`);
+  if (t.gradeStart !== undefined || t.gradeEnd !== undefined) {
+    const lo = GRADES.indexOf(t.gradeStart);
+    const hi = GRADES.indexOf(t.gradeEnd);
+    check(lo >= 0 && hi >= 0, `topic ${t.id}: bad grade ${t.gradeStart}–${t.gradeEnd}`);
+    check(lo <= hi, `topic ${t.id}: gradeStart ${t.gradeStart} is after gradeEnd ${t.gradeEnd}`);
+  }
   if (topicIds.has(t.id)) errors.push(`duplicate topic id: ${t.id}`);
   topicIds.add(t.id);
 }

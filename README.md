@@ -1,17 +1,56 @@
-# Marble Skill Taxonomy
+# Socratic Foundry Map
+
+A graph of what children learn, adapted for US homeschooling: 1,590 micro-topics, 3,221 prerequisite links, US spelling and vocabulary, and US grade levels on every topic. It is the open skill-map layer of the Socratic Foundry homeschool platform; lessons, practice items, semester plans and learner data live elsewhere.
+
+This is an adaptation of the [Marble Skill Taxonomy v1](https://github.com/withmarbleapp/os-taxonomy) (commit `96a7933`). The first commit on `main` is Marble's data unchanged, so every change is visible in git history.
+
+> Contains the Marble Skill Taxonomy (v1) · © Generative Spark, Inc. (Marble) · https://withmarble.com · licensed under ODbL 1.0 (database) and CC BY-SA 4.0 (content). Modifications © Socratic Foundry contributors, released under the same licenses.
+
+## What changed from upstream
+
+| Change | Where |
+| --- | --- |
+| UK spelling to US (recognize, color, meter, analyze, modeling, …) | `adaptation/us/spelling.json` |
+| UK vocabulary to US (period, quotation marks, parentheses, flashlight, cookies, students, counterclockwise, customary units, …) | `adaptation/us/rules.mjs` |
+| Pounds and pence to dollars and cents; UK coin topics rewritten for pennies, nickels, dimes and quarters | `adaptation/us/rules.mjs` |
+| UK school years and key stages to US grades (Year 3 → grade 2, KS2 → grades 2–5) | `adaptation/us/rules.mjs` |
+| `gradeStart` / `gradeEnd` on every topic and `gradeStart` on every cluster (PK–12) | `data/topics.json`, `data/clusters.json`, `schema/` |
+| Every changed text field, before and after | `adaptation/us/changes.csv` |
+| Topics that still need a human rewrite (UK spelling rules, English history, metric-only measurement) | `adaptation/us/review-needed.md` |
+
+`curriculum-standards.json` is untouched: the UK, Common Core and other standards are shown as their publishers wrote them.
+
+### How grades are assigned
+
+UK ages map to US grades with age 5 as kindergarten. A topic for ages 7–9 becomes grades 2–3. The range is then widened to include the grade of any Common Core or NGSS standard the topic links to. 1,470 of 1,590 topics start between pre-K and grade 6.
+
+## Re-running the conversion
+
+```bash
+node scripts/americanize.mjs   # rewrites data/*.json, changes.csv, review-needed.md
+node scripts/validate.mjs      # structure, references, grades, checksums
+```
+
+The conversion is safe to re-run: its rules only match UK forms, so a second run changes nothing. To change a conversion, edit `adaptation/us/rules.mjs` or `spelling.json`, restore `data/` from the first commit (`git checkout $(git rev-list --max-parents=0 HEAD) -- data`), and re-run.
+
+## License
+
+Same as upstream; see [the upstream license section](#license-1) below. In short: the database is ODbL 1.0 (share-alike), Marble's and our text is CC BY-SA 4.0, and each curriculum standard keeps its publisher's terms (see [PROVENANCE.md](PROVENANCE.md)). Products built on this data do not need to be open source, but changes to the map itself must be published under ODbL.
+
+## About the upstream dataset: Marble Skill Taxonomy
 
 An open, structured taxonomy of **what children learn** across the primary/elementary years — decomposed into fine-grained "micro-topics", wired into a prerequisite graph, and aligned to national curriculum standards. Produced by [Marble](https://withmarble.com).
 
 > **Version:** `v1` · **Topics:** 1,590 · **Prerequisite edges:** 3,221 · **Subjects:** 8
 
-## See it
+### See it
 
 ![The taxonomy as a rotating 3D graph: every dot a micro-topic, colored by subject, wired by prerequisites](media/curriculum-viz.gif)
 
 Every dot is a micro-topic, colored by subject; height is age; each thread is a prerequisite ([full-quality video](media/curriculum-viz.mp4)). Explore it interactively at [withmarble.com/curriculum](https://withmarble.com/curriculum) — tap any concept to trace everything a learner must master before it.
 
 
-## What this is
+### What this is
 
 Most curriculum data is either a flat list of standards or locked inside a product. This dataset is a **connected graph of learning**:
 
@@ -20,7 +59,7 @@ Most curriculum data is either a flat list of standards or locked inside a produ
 - **Curriculum alignment** — each micro-topic links to the standards it was distilled from (NGSS, Common Core, the UK National Curriculum, and more).
 - **Domain clusters** — 183 parent-friendly one-paragraph summaries per (subject, domain, age band).
 
-### Subjects
+#### Subjects
 
 | Subject | Topics |
 |---|---:|
@@ -33,7 +72,7 @@ Most curriculum data is either a flat list of standards or locked inside a produ
 | Computing | 21 |
 | Learning to Learn | 18 |
 
-## Files
+### Files
 
 All data lives in [`data/`](data/) as UTF-8 JSON. See [`schema/`](schema/) for JSON Schemas and [`manifest.json`](data/manifest.json) for counts + SHA-256 checksums.
 
@@ -45,7 +84,7 @@ All data lives in [`data/`](data/) as UTF-8 JSON. See [`schema/`](schema/) for J
 | [`data/clusters.json`](data/clusters.json) | Parent-friendly domain summaries. |
 | [`data/manifest.json`](data/manifest.json) | Counts, per-subject breakdown, per-file checksums. |
 
-### A topic
+#### A topic
 
 ```json
 {
@@ -71,7 +110,7 @@ All data lives in [`data/`](data/) as UTF-8 JSON. See [`schema/`](schema/) for J
 - `standards` — keys into `curriculum-standards.json` (`"<curriculum-slug>:<code>"`).
 - `assessmentPrompt` — a natural-language check for the idea. Contains a `{{name}}` placeholder (the child's name); substitute or strip before display.
 
-### A dependency
+#### A dependency
 
 ```json
 { "topicId": "mt__00ZSLnB7p", "prerequisiteId": "mt_VBl1T1sFCM", "strength": "hard",
@@ -80,7 +119,7 @@ All data lives in [`data/`](data/) as UTF-8 JSON. See [`schema/`](schema/) for J
 
 `topicId` **depends on** `prerequisiteId`. Reverse the edge to get "unlocks".
 
-## Using it
+### Using it
 
 Pure data — no runtime, no dependencies. Load the JSON and go.
 
@@ -100,7 +139,7 @@ Validate structure + referential integrity:
 node scripts/validate.mjs
 ```
 
-## License
+### License
 
 This dataset is **multi-licensed** — read this before you use or redistribute it.
 
@@ -112,7 +151,7 @@ This dataset is **multi-licensed** — read this before you use or redistribute 
 
 **Why share-alike + still commercial-friendly:** ODbL distinguishes a *derivative database* (extend/modify the taxonomy → must stay open) from a *produced work* (use it inside a product, model, or app → stays yours). So you can build a commercial product on this without open-sourcing your product; you only owe back improvements to the *taxonomy itself*.
 
-### Attribution
+#### Attribution
 
 Any use must credit:
 
@@ -120,6 +159,6 @@ Any use must credit:
 
 Plus the upstream notices in [PROVENANCE.md](PROVENANCE.md) for any curriculum standards you use. See [CITATION.cff](CITATION.cff) for a formal citation.
 
-## What's *not* here
+### What's *not* here
 
 Deliberately excluded from this release: semantic embeddings (derived, recomputable) and any per-child / user data (never published). See [CHANGELOG.md](CHANGELOG.md).

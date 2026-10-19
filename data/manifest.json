@@ -28,20 +28,20 @@
   },
   "files": {
     "topics.json": {
-      "bytes": 1667462,
-      "sha256": "2d99fc3b5e57d9ddb86b6c179b58a1b0390f048d9798585fe03b13cbc183719b"
+      "bytes": 1744022,
+      "sha256": "c8d9d1e4d16466c3eb430a8d9b21d36e2a2f890b6e9600f1f305391beb688c94"
     },
     "dependencies.json": {
-      "bytes": 696944,
-      "sha256": "86a24efb44b480e5be23082b4bdea653f69f6d6fd54c5409a2f33c185be1d87f"
+      "bytes": 699716,
+      "sha256": "d742bb061e6dbb74334cba70a6d1134d99adb1b54ae4d8c77c6fd7dd17e0e9b5"
     },
     "curriculum-standards.json": {
       "bytes": 1621982,
       "sha256": "33a835abaafa68ed736f2102d5502ff030d6448dc55ae45718be05a78f5fc73f"
     },
     "clusters.json": {
-      "bytes": 61019,
-      "sha256": "d7dd0ca7fa1e6a5f3f54eb6482f47587e8508a199340e4ff58f2284cceda5ed0"
+      "bytes": 65595,
+      "sha256": "375d4b6ecb314768e407d8c3bfc4012301ab97d6ceaecbc69a5e28bcb3f77e9b"
     }
   },
   "excluded": [
@@ -49,5 +49,10 @@
     "child mastery beliefs (PII)",
     "teaching research",
     "visualizations"
-  ]
+  ],
+  "adaptation": {
+    "name": "Socratic Foundry Map — US adaptation",
+    "basedOn": "Marble Skill Taxonomy v1 (withmarbleapp/os-taxonomy @ 96a7933)",
+    "changes": "US spelling and vocabulary, dollars and cents, UK school years converted to US grades, gradeStart/gradeEnd added. See adaptation/us/."
+  }
 }
