@@ -435,8 +435,9 @@
       "gradeEnd": "K",
       "centrality": 0.1135430916552668,
       "evidence": [
-        "Simple View of Reading (Gough & Tunmer)",
-        "reading comprehension research on comprehension-decoding separation"
+        "Tell in their own words what a short text they just read or heard was about",
+        "Say \"I read it but I don't know what it means\" when they can say the words but not explain them",
+        "Explain that reading means understanding the words, not just saying them correctly"
       ],
       "assessmentPrompt": "If {{name}} reads something aloud correctly but then can't tell you what it was about, do they recognize that reading means understanding — not just saying the words?",
       "standards": []
@@ -454,8 +455,9 @@
       "gradeEnd": "2",
       "centrality": 0.1108071135430917,
       "evidence": [
-        "comprehension monitoring research",
-        "Metacognitive Monitoring in Reading Comprehension (MDPI 2024)"
+        "Notice and say when they have read a sentence or paragraph without understanding it",
+        "Stop and reread, ask a question, or look at a picture when meaning breaks down",
+        "Explain the difference between saying the words and understanding what they mean"
       ],
       "assessmentPrompt": "After {{name}} reads a paragraph or listens to an explanation, do they notice when they haven't really understood it — rather than just carrying on as if they had?",
       "standards": []
@@ -473,9 +475,9 @@
       "gradeEnd": "3",
       "centrality": 0.05471956224350205,
       "evidence": [
-        "authorial awareness research",
-        "Understanding Author's Purpose (Firkins)",
-        "collaborative multilayered text interpretation in 5-8 year olds"
+        "Point out a word or phrase an author chose and say how it made them feel or what it made them picture",
+        "Suggest a different word the author could have used and explain how it would change the effect",
+        "Explain that authors choose words, order, and tone on purpose to affect the reader"
       ],
       "assessmentPrompt": "When {{name}} reads a book or article, do they ever notice and comment on why the author chose to write it a certain way — and what effect that has on them as a reader?",
       "standards": []
@@ -493,8 +495,9 @@
       "gradeEnd": "3",
       "centrality": 0.03283173734610123,
       "evidence": [
-        "inference vs literal comprehension development research",
-        "online inference making and comprehension monitoring (PMC 2021)"
+        "Point to the words in a text that state a fact directly",
+        "Identify something they worked out from clues that the text does not say outright",
+        "Sort statements about a text into \"the text says\" and \"I figured out\", and explain the clues behind each inference"
       ],
       "assessmentPrompt": "After {{name}} reads a story or article, can they tell you which parts they actually read in the text and which parts they worked out or assumed for themselves?",
       "standards": []
@@ -512,9 +515,9 @@
       "gradeEnd": "4",
       "centrality": 0.03830369357045144,
       "evidence": [
-        "Noticing Unfamiliar Words Assessment research (grade 2+)",
-        "word consciousness and vocabulary metacognition research",
-        "Building Word Knowledge e-Book (PMC 2019)"
+        "Sort words from a text into \"know well\", \"half-know\", and \"don't know\"",
+        "Notice a half-known word while reading and say what they think it means and how sure they are",
+        "Check an uncertain word by using context, a dictionary, or asking, then say whether their guess was right"
       ],
       "assessmentPrompt": "When {{name}} comes across a word they half-know — where they can guess the meaning but aren't sure — do they notice that gap and do something about it, like looking it up or asking?",
       "standards": []
@@ -532,8 +535,9 @@
       "gradeEnd": "4",
       "centrality": 0.06155950752393981,
       "evidence": [
-        "writing self-evaluation research grades 3-5",
-        "metacognitive awareness of writing (Frontiers 2025)"
+        "State the effect they wanted their writing to have on a reader (e.g., make them laugh, persuade them)",
+        "Reread their own writing and point to a part that does or does not achieve that effect",
+        "Change a sentence or section to make it work better for the reader, not only to fix spelling or punctuation"
       ],
       "assessmentPrompt": "After {{name}} writes something — a story, a letter, a persuasive piece — do they think about whether it would have the effect they wanted on a reader, not just whether the spelling is right?",
       "standards": []
@@ -551,8 +555,9 @@
       "gradeEnd": "5",
       "centrality": 0.04514363885088919,
       "evidence": [
-        "metalinguistic awareness development",
-        "register and audience awareness research"
+        "Describe how they speak or write differently for two audiences (e.g., a friend vs. a teacher) and give examples",
+        "Explain why a change in audience or purpose calls for different words, tone, or formality",
+        "Name one part of their reading, writing, or speaking they want to improve and how they plan to work on it"
       ],
       "assessmentPrompt": "Does {{name}} notice how they communicate differently in different situations — writing for school versus texting a friend, or speaking in a debate versus chatting at home — and can they explain why those differences matter?",
       "standards": []
@@ -601,7 +606,8 @@
       "standards": [
         "ccss-ela:L.K.2",
         "uk-nc-2013:Eng.App2.Y1.Punc.1",
-        "uk-nc-2013:Eng_Y1_WVGP_01"
+        "uk-nc-2013:Eng_Y1_WVGP_01",
+        "ccss-ela:RF.K.1.c"
       ]
     },
     {
@@ -648,7 +654,8 @@
       "standards": [
         "ccss-ela:L.1.2a",
         "uk-nc-2013:Eng.App2.Y1.Punc.3",
-        "uk-nc-2013:Eng_Y1_WVGP_04"
+        "uk-nc-2013:Eng_Y1_WVGP_04",
+        "ccss-ela:L.1.1b"
       ]
     },
     {
@@ -807,7 +814,7 @@
       "ageRangeStart": 6,
       "ageRangeEnd": 7,
       "gradeStart": "1",
-      "gradeEnd": "1",
+      "gradeEnd": "2",
       "centrality": 0.0560875512995896,
       "evidence": [
         "Use apostrophes correctly in both 'don't' and 'Sam's bag' within the same piece of writing",
@@ -815,7 +822,9 @@
         "Correct misplaced or missing apostrophes in a set of sentences"
       ],
       "assessmentPrompt": "When {{name}} writes a word like \"don't\" or \"it's\", do they put the apostrophe in the right place — and can they also write something like \"the dog's bowl\" to show the bowl belongs to the dog?",
-      "standards": []
+      "standards": [
+        "ccss-ela:L.2.2c"
+      ]
     },
     {
       "id": "mt_ntqNLHsj5n",
@@ -883,7 +892,9 @@
         "Choose precise adjectives to make a noun phrase more vivid: e.g., 'a tiny, shivering kitten'"
       ],
       "assessmentPrompt": "When {{name}} describes something in writing — like a pet or a toy — do they add extra describing words, such as \"the small, fluffy rabbit\" rather than just \"the rabbit\"?",
-      "standards": []
+      "standards": [
+        "ccss-ela:L.1.1f"
+      ]
     },
     {
       "id": "mt_u1-UfD0rTH",
@@ -952,7 +963,8 @@
       ],
       "assessmentPrompt": "If {{name}} is writing about something that happened yesterday versus something happening right now, do they change the verb — for example, writing \"she jumped\" for the past and \"she is jumping\" for right now?",
       "standards": [
-        "ccss-ela:L.3.1d"
+        "ccss-ela:L.3.1d",
+        "ccss-ela:L.1.1e"
       ]
     },
     {
@@ -973,7 +985,9 @@
         "Choose the correct possessive pronoun (my/his/her/their) to match the noun it replaces"
       ],
       "assessmentPrompt": "When {{name}} retells a story or describes what a friend did, do they use words like \"he\", \"she\", \"they\", or \"his\" correctly — instead of repeating the person's name every single time?",
-      "standards": []
+      "standards": [
+        "ccss-ela:L.1.1d"
+      ]
     },
     {
       "id": "mt_u7Jxjjatkh",
@@ -1044,7 +1058,9 @@
         "Expand sentences by adding both an adjective and an adverb: 'The tall boy ran quickly'"
       ],
       "assessmentPrompt": "If {{name}} writes \"she ran quick\" instead of \"she ran quickly\", can they spot that they need an adverb to describe the running — and fix it themselves?",
-      "standards": []
+      "standards": [
+        "ccss-ela:L.2.1e"
+      ]
     },
     {
       "id": "mt_2l06snztdP",
@@ -1134,7 +1150,9 @@
         "Write a short recount using at least five irregular past-tense verbs accurately"
       ],
       "assessmentPrompt": "When {{name}} writes about something that happened in the past with an irregular verb — like \"run\" or \"sit\" — do they write \"ran\" and \"sat\" rather than \"runned\" and \"sitted\"?",
-      "standards": []
+      "standards": [
+        "ccss-ela:L.2.1d"
+      ]
     },
     {
       "id": "mt_nFBLNoChD0",
@@ -1180,7 +1198,8 @@
       "assessmentPrompt": "When {{name}} writes a paragraph about two people — like two characters in a story — do they use \"he\", \"she\", and \"they\" clearly enough that you always know who is being talked about?",
       "standards": [
         "uk-nc-2013:Eng.App2.Y4.Text.2",
-        "uk-nc-2013:Eng_LKS2_Write_VGP_3"
+        "uk-nc-2013:Eng_LKS2_Write_VGP_3",
+        "ccss-ela:L.2.1c"
       ]
     },
     {
@@ -1252,7 +1271,9 @@
         "Write three sentences each containing a different abstract noun (e.g. 'honesty', 'friendship', 'happiness')"
       ],
       "assessmentPrompt": "Can {{name}} write a sentence using an abstract word like \"kindness\", \"freedom\", or \"happiness\" — knowing these are nouns even though you can't touch or see them?",
-      "standards": []
+      "standards": [
+        "ccss-ela:L.3.1c"
+      ]
     },
     {
       "id": "mt_2NfIKEYdbm",
@@ -1273,7 +1294,8 @@
       ],
       "assessmentPrompt": "If {{name}} writes \"Each of the players have their own locker\", can they spot the error and fix it to \"has their own locker\" — making sure the verb matches the subject?",
       "standards": [
-        "ccss-ela:L.4.2a"
+        "ccss-ela:L.4.2a",
+        "ccss-ela:L.3.1f"
       ]
     },
     {
@@ -1294,7 +1316,9 @@
         "Write sentences using both a comparative adverb ('more carefully') and a superlative adjective ('tallest') correctly"
       ],
       "assessmentPrompt": "If {{name}} is comparing three things — like three books they've read — can they correctly say one is \"good\", another is \"better\", and the best one is \"the best\"?",
-      "standards": []
+      "standards": [
+        "ccss-ela:L.3.1g"
+      ]
     },
     {
       "id": "mt_EbiGRVK8uR",
@@ -1396,7 +1420,9 @@
         "Write a three-sentence paragraph maintaining consistent future tense throughout"
       ],
       "assessmentPrompt": "When {{name}} writes about something that happened yesterday, something happening now, and something that will happen tomorrow, do they change the verb correctly for each time — like \"I walked\", \"I walk\", and \"I will walk\"?",
-      "standards": []
+      "standards": [
+        "ccss-ela:L.3.1e"
+      ]
     },
     {
       "id": "mt_ay0qkGj0jg",
@@ -1473,7 +1499,7 @@
       "ageRangeStart": 9,
       "ageRangeEnd": 11,
       "gradeStart": "4",
-      "gradeEnd": "5",
+      "gradeEnd": "6",
       "centrality": 0.05882352941176471,
       "evidence": [
         "Replace repeated nouns with pronouns or synonyms to maintain cohesion without ambiguity, e.g. 'The explorer found a cave. She examined it carefully'",
@@ -1483,7 +1509,8 @@
       "assessmentPrompt": "When {{name}} writes a paragraph, do the sentences flow together smoothly — using words like \"however\", \"after this\", or \"in contrast\" to link ideas, rather than every sentence starting with \"And then\"?",
       "standards": [
         "uk-nc-2013:Eng.App2.Y5.Text.1",
-        "uk-nc-2013:Eng.UKS2.Write.Comp.2d"
+        "uk-nc-2013:Eng.UKS2.Write.Comp.2d",
+        "ccss-ela:L.6.1d"
       ]
     },
     {
@@ -2214,7 +2241,8 @@
         "ccss-ela:L.6.1e",
         "ccss-ela:L.6.3b",
         "uk-nc-2013:KS3-ENG-GV-1d",
-        "uk-nc-2013:KS3-ENG-GV-1e"
+        "uk-nc-2013:KS3-ENG-GV-1e",
+        "ccss-ela:W.6.2.e"
       ]
     },
     {
@@ -2412,7 +2440,8 @@
         "ccss-ela:RF.K.3.d",
         "uk-nc-2013:Eng_App1_Y1_06",
         "uk-nc-2013:Eng_Y1_RWR_01",
-        "uk-nc-2013:Eng_Y1_RWR_03"
+        "uk-nc-2013:Eng_Y1_RWR_03",
+        "ccss-ela:RF.1.2.b"
       ]
     },
     {
@@ -2487,7 +2516,12 @@
       ],
       "assessmentPrompt": "If you slowly say the sounds '/d/ /o/ /g/', can {{name}} blend them together and say 'dog'? And if you say 'cat', can they tell you the three separate sounds: /k/ /a/ /t/?",
       "standards": [
-        "uk-nc-2013:Eng_App1_Y1_04"
+        "uk-nc-2013:Eng_App1_Y1_04",
+        "ccss-ela:RF.K.2.c",
+        "ccss-ela:RF.K.2.d",
+        "ccss-ela:RF.K.2.e",
+        "ccss-ela:RF.1.2.c",
+        "ccss-ela:RF.1.2.b"
       ]
     },
     {
@@ -2748,7 +2782,10 @@
         "Recognize at least 20-30 high-frequency words in connected text"
       ],
       "assessmentPrompt": "Can {{name}} instantly recognize everyday words like 'said', 'was', 'they', 'come', and 'because' without needing to sound them out every time?",
-      "standards": []
+      "standards": [
+        "ccss-ela:RF.K.3.c",
+        "ccss-ela:RF.1.3.g"
+      ]
     },
     {
       "id": "mt__CMXZiPfTV",
@@ -2768,7 +2805,9 @@
         "Read words with prefix un- (e.g. 'unhappy', 'undo')"
       ],
       "assessmentPrompt": "When {{name}} sees familiar words with different endings — like 'jumped', 'running', 'biggest', or 'unhappy' — can they spot the root word and read the whole thing correctly?",
-      "standards": []
+      "standards": [
+        "ccss-ela:RF.1.3.f"
+      ]
     },
     {
       "id": "mt_C7abt7pRr6",
@@ -2904,7 +2943,7 @@
       "ageRangeStart": 6,
       "ageRangeEnd": 10,
       "gradeStart": "1",
-      "gradeEnd": "4",
+      "gradeEnd": "5",
       "centrality": 0.1025991792065663,
       "evidence": [
         "Read a grade-level passage aloud with expression and appropriate pacing",
@@ -2938,7 +2977,11 @@
         "uk-nc-2013:Eng/KS1/Y2/WR/7",
         "uk-nc-2013:Eng/KS1/Y2/WR/8",
         "uk-nc-2013:Eng_LKS2_Read_Comp_6",
-        "uk-nc-2013:Eng_LKS2_Read_Word_1"
+        "uk-nc-2013:Eng_LKS2_Read_Word_1",
+        "ccss-ela:RF.5.4.b",
+        "ccss-ela:RF.5.4.a",
+        "ccss-ela:RL.5.10",
+        "ccss-ela:RI.5.10"
       ]
     },
     {
@@ -3115,7 +3158,8 @@
         "ccss-ela:RI.K.9",
         "ccss-ela:RL.1.9",
         "ccss-ela:RL.3.9",
-        "ccss-ela:RL.K.9"
+        "ccss-ela:RL.K.9",
+        "ccss-ela:RL.2.9"
       ]
     },
     {
@@ -3226,7 +3270,8 @@
         "uk-nc-2013:Eng.UKS2.Read.Comp.7",
         "uk-nc-2013:Eng/KS1/Y2/C/1a",
         "uk-nc-2013:Eng_LKS2_Read_Comp_1",
-        "uk-nc-2013:Eng_Y1_RC_01"
+        "uk-nc-2013:Eng_Y1_RC_01",
+        "ccss-ela:SL.2.2"
       ]
     },
     {
@@ -3247,7 +3292,10 @@
         "Explain how two events or ideas in a text are connected"
       ],
       "assessmentPrompt": "After {{name}} reads a short fact book — like one about animals or space — can they tell you what the main topic was and give you a few key facts they learned from it?",
-      "standards": []
+      "standards": [
+        "ccss-ela:RI.K.2",
+        "ccss-ela:RI.K.3"
+      ]
     },
     {
       "id": "mt_OlhMP7ShFT",
@@ -3300,7 +3348,13 @@
       "standards": [
         "ccss-ela:RI.3.1",
         "ccss-ela:RL.3.1",
-        "uk-nc-2013:Eng.UKS2.Read.Comp.2b"
+        "uk-nc-2013:Eng.UKS2.Read.Comp.2b",
+        "ccss-ela:RL.K.1",
+        "ccss-ela:RI.K.1",
+        "ccss-ela:RL.1.1",
+        "ccss-ela:RI.1.1",
+        "ccss-ela:RL.2.1",
+        "ccss-ela:RI.2.1"
       ]
     },
     {
@@ -3348,7 +3402,12 @@
         "Compare how two characters from different stories react to a similar situation (e.g. how two heroes show bravery in different ways)"
       ],
       "assessmentPrompt": "When {{name}} reads a story told from one character's point of view, can they think about how a different character in the same story might have seen events differently?",
-      "standards": []
+      "standards": [
+        "ccss-ela:RL.1.6",
+        "ccss-ela:RL.2.3",
+        "ccss-ela:RL.2.6",
+        "ccss-ela:RL.2.9"
+      ]
     },
     {
       "id": "mt_fL1Xz8ostr",
@@ -3399,7 +3458,9 @@
       "standards": [
         "ccss-ela:RI.2.8",
         "ccss-ela:RI.3.2",
-        "ccss-ela:RI.4.2"
+        "ccss-ela:RI.4.2",
+        "ccss-ela:RI.2.2",
+        "ccss-ela:RI.2.3"
       ]
     },
     {
@@ -3427,7 +3488,8 @@
         "ccss-ela:RI.2.6",
         "ccss-ela:RI.3.5",
         "uk-nc-2013:Eng/KS1/Y2/C/1d",
-        "uk-nc-2013:Eng_LKS2_Read_Comp_2"
+        "uk-nc-2013:Eng_LKS2_Read_Comp_2",
+        "ccss-ela:L.2.4e"
       ]
     },
     {
@@ -3576,7 +3638,9 @@
         "Distinguish the central message from a summary of events — explain what the story means, not just what happens"
       ],
       "assessmentPrompt": "After reading a fable like \"The Tortoise and the Hare\", can {{name}} tell you the lesson the story is teaching — and point to a moment in the story that shows that lesson?",
-      "standards": []
+      "standards": [
+        "ccss-ela:RL.2.2"
+      ]
     },
     {
       "id": "mt_aVZJhPbc_1",
@@ -3642,7 +3706,10 @@
         "Describe where one's own opinion about a character differs from the narrator's portrayal and explain why"
       ],
       "assessmentPrompt": "When {{name}} reads a story, can they describe why a character made a particular choice — explaining their motivations — and also say whether they personally agree with what the character did?",
-      "standards": []
+      "standards": [
+        "ccss-ela:RL.3.3",
+        "ccss-ela:RL.3.6"
+      ]
     },
     {
       "id": "mt_w4wKFP3jud",
@@ -3662,7 +3729,10 @@
         "Describe how two paragraphs in a text are connected (e.g. comparison, cause/effect, or sequence)"
       ],
       "assessmentPrompt": "After reading a non-fiction passage — like one about climate or history — can {{name}} explain what caused something to happen, what the effect was, and how the author linked those ideas together?",
-      "standards": []
+      "standards": [
+        "ccss-ela:RI.3.3",
+        "ccss-ela:RI.3.8"
+      ]
     },
     {
       "id": "mt_H0ajATAlus",
@@ -3682,7 +3752,9 @@
         "Explain the difference between the topic of a story and its central message or lesson"
       ],
       "assessmentPrompt": "After reading a myth or folktale from another culture, can {{name}} explain what lesson or value it was teaching — and say which details in the story showed that?",
-      "standards": []
+      "standards": [
+        "ccss-ela:RL.3.2"
+      ]
     },
     {
       "id": "mt_ujwtRoYJ34",
@@ -3702,7 +3774,9 @@
         "Describe how a specific chapter advances the plot by referring to events in earlier chapters"
       ],
       "assessmentPrompt": "When {{name}} talks about a book they're reading, do they use words like \"chapter\", \"stanza\", or \"scene\" correctly — and can they explain how a later chapter builds on what happened earlier?",
-      "standards": []
+      "standards": [
+        "ccss-ela:RL.3.5"
+      ]
     },
     {
       "id": "mt_OltpfaX7l6",
@@ -3722,7 +3796,9 @@
         "Explain how word choices in an informational text reveal the author's attitude toward the topic"
       ],
       "assessmentPrompt": "When {{name}} reads a fact book or an article, can they tell you what the author's purpose was — like whether they were trying to inform, persuade, or entertain — and whether they agree with the author's viewpoint?",
-      "standards": []
+      "standards": [
+        "ccss-ela:RI.3.6"
+      ]
     },
     {
       "id": "mt_8FwtdJzeDh",
@@ -3889,7 +3965,7 @@
       "ageRangeStart": 9,
       "ageRangeEnd": 10,
       "gradeStart": "4",
-      "gradeEnd": "4",
+      "gradeEnd": "6",
       "centrality": 0.01915184678522572,
       "evidence": [
         "Read and interpret data from a chart, graph, or table included in an informational text and explain how it supports or extends the written information",
@@ -3898,7 +3974,9 @@
       ],
       "assessmentPrompt": "When {{name}} reads a non-fiction article that includes a chart or timeline, can they explain what extra information those visuals add — beyond what the written text says?",
       "standards": [
-        "ccss-ela:RI.4.7"
+        "ccss-ela:RI.4.7",
+        "ccss-ela:RI.6.7",
+        "ccss-ela:CCSS.ELA-Literacy.SL.6.2"
       ]
     },
     {
@@ -4433,7 +4511,8 @@
         "ccss-ela:RL.6.5",
         "ccss-ela:RL.7.5",
         "ccss-ela:RL.8.5",
-        "uk-nc-2013:KS3-ENG-R-3a"
+        "uk-nc-2013:KS3-ENG-R-3a",
+        "ccss-ela:RI.6.3"
       ]
     },
     {
@@ -4461,7 +4540,9 @@
         "ccss-ela:RL.7.9",
         "ccss-ela:RL.8.9",
         "uk-nc-2013:KS3-ENG-R-1c",
-        "uk-nc-2013:KS3-ENG-R-3e"
+        "uk-nc-2013:KS3-ENG-R-3e",
+        "ccss-ela:RL.6.9",
+        "ccss-ela:W.6.9.a"
       ]
     },
     {
@@ -4487,7 +4568,8 @@
         "ccss-ela:RI.7.8",
         "ccss-ela:RI.8.8",
         "uk-nc-2013:KS3-ENG-R-2b",
-        "uk-nc-2013:KS3-ENG-R-3e"
+        "uk-nc-2013:KS3-ENG-R-3e",
+        "ccss-ela:W.6.9.b"
       ]
     },
     {
@@ -4645,7 +4727,8 @@
         "ccss-ela:RL.6.2",
         "ccss-ela:RL.7.2",
         "ccss-ela:RL.8.2",
-        "uk-nc-2013:KS3-ENG-R-2d"
+        "uk-nc-2013:KS3-ENG-R-2d",
+        "ccss-ela:RI.6.3"
       ]
     },
     {
@@ -4698,7 +4781,8 @@
         "ccss-ela:RL.6.1",
         "ccss-ela:RL.7.1",
         "ccss-ela:RL.8.1",
-        "uk-nc-2013:KS3-ENG-R-2b"
+        "uk-nc-2013:KS3-ENG-R-2b",
+        "ccss-ela:W.6.9"
       ]
     },
     {
@@ -4755,7 +4839,10 @@
         "ccss-ela:SL.4.3",
         "ccss-ela:SL.5.3",
         "ccss-ela:SL.K.3",
-        "uk-nc-2013:Eng.SL.2"
+        "uk-nc-2013:Eng.SL.2",
+        "ccss-ela:SL.1.1.c",
+        "ccss-ela:SL.2.1.c",
+        "ccss-ela:SL.3.1.c"
       ]
     },
     {
@@ -4854,7 +4941,15 @@
       ],
       "assessmentPrompt": "When {{name}} is chatting with a friend or taking part in a group activity, can they keep a conversation going back and forth — listening, responding, and building on what the other person said?",
       "standards": [
-        "uk-nc-2013:Eng.SL.6"
+        "uk-nc-2013:Eng.SL.6",
+        "ccss-ela:SL.K.1",
+        "ccss-ela:SL.K.1.b",
+        "ccss-ela:SL.1.1",
+        "ccss-ela:SL.1.1.b",
+        "ccss-ela:SL.2.1",
+        "ccss-ela:SL.2.1.b",
+        "ccss-ela:SL.3.1",
+        "ccss-ela:SL.3.1.c"
       ]
     },
     {
@@ -4876,7 +4971,12 @@
       ],
       "assessmentPrompt": "When {{name}} is in a group conversation at school or at the dinner table, do they listen while others are talking and wait for their turn before speaking?",
       "standards": [
-        "uk-nc-2013:Eng.SL.1"
+        "uk-nc-2013:Eng.SL.1",
+        "ccss-ela:SL.K.1.a",
+        "ccss-ela:SL.1.1.a",
+        "ccss-ela:SL.2.1.a",
+        "ccss-ela:SL.3.1.b",
+        "ccss-ela:SL.5.1.b"
       ]
     },
     {
@@ -4888,7 +4988,7 @@
       "description": "Learn poems by heart and recite with appropriate intonation, adding visual displays to descriptions when appropriate, and producing complete sentences in spoken presentations",
       "ageRangeStart": 6,
       "ageRangeEnd": 10,
-      "gradeStart": "1",
+      "gradeStart": "K",
       "gradeEnd": "4",
       "centrality": 0.03693570451436388,
       "evidence": [
@@ -4908,7 +5008,8 @@
         "ccss-ela:SL.4.5",
         "uk-nc-2013:Eng.SL.10",
         "uk-nc-2013:Eng.SL.9",
-        "uk-nc-2013:Eng/KS1/Y2/C/1h"
+        "uk-nc-2013:Eng/KS1/Y2/C/1h",
+        "ccss-ela:SL.K.5"
       ]
     },
     {
@@ -4932,7 +5033,8 @@
       "standards": [
         "uk-nc-2013:Eng.SL.10",
         "uk-nc-2013:Eng.SL.11",
-        "uk-nc-2013:Eng.SL.12"
+        "uk-nc-2013:Eng.SL.12",
+        "ccss-ela:SL.2.1.b"
       ]
     },
     {
@@ -4945,7 +5047,7 @@
       "ageRangeStart": 8,
       "ageRangeEnd": 11,
       "gradeStart": "3",
-      "gradeEnd": "5",
+      "gradeEnd": "6",
       "centrality": 0.03693570451436388,
       "evidence": [
         "Read assigned material and prepare three discussion points or questions before a group conversation",
@@ -4959,7 +5061,10 @@
         "ccss-ela:SL.4.1.b",
         "ccss-ela:SL.4.1.c",
         "ccss-ela:SL.4.1.d",
-        "ccss-ela:SL.5.1.a"
+        "ccss-ela:SL.5.1.a",
+        "ccss-ela:SL.3.1.a",
+        "ccss-ela:SL.3.1.d",
+        "ccss-ela:CCSS.ELA-Literacy.SL.6.1a"
       ]
     },
     {
@@ -5016,7 +5121,7 @@
       "description": "Paraphrase portions of a text read aloud or information presented in diverse media and formats, capturing the key ideas accurately in one's own words",
       "ageRangeStart": 9,
       "ageRangeEnd": 10,
-      "gradeStart": "4",
+      "gradeStart": "3",
       "gradeEnd": "4",
       "centrality": 0.03830369357045144,
       "evidence": [
@@ -5026,7 +5131,8 @@
       ],
       "assessmentPrompt": "If {{name}} listens to a short talk or watches a video clip about a topic, can they explain the main points back to you in their own words?",
       "standards": [
-        "ccss-ela:SL.4.2"
+        "ccss-ela:SL.4.2",
+        "ccss-ela:SL.3.2"
       ]
     },
     {
@@ -5061,7 +5167,7 @@
       "ageRangeStart": 10,
       "ageRangeEnd": 11,
       "gradeStart": "5",
-      "gradeEnd": "5",
+      "gradeEnd": "6",
       "centrality": 0.008207934336525308,
       "evidence": [
         "Ask follow-up questions that build on another speaker's comment",
@@ -5070,7 +5176,8 @@
       ],
       "assessmentPrompt": "In a class discussion, does {{name}} ask questions that move the conversation forward and add comments that build on what others have said rather than just repeating the same ideas?",
       "standards": [
-        "ccss-ela:SL.5.1.c"
+        "ccss-ela:SL.5.1.c",
+        "ccss-ela:CCSS.ELA-Literacy.SL.6.1c"
       ]
     },
     {
@@ -5083,7 +5190,7 @@
       "ageRangeStart": 10,
       "ageRangeEnd": 11,
       "gradeStart": "5",
-      "gradeEnd": "5",
+      "gradeEnd": "6",
       "centrality": 0.03693570451436388,
       "evidence": [
         "Summarize the main points made by different speakers in a group discussion",
@@ -5092,7 +5199,9 @@
       ],
       "assessmentPrompt": "After a group discussion, can {{name}} pull together the main points that were made and explain what conclusion the group reached?",
       "standards": [
-        "ccss-ela:SL.5.1.d"
+        "ccss-ela:SL.5.1.d",
+        "ccss-ela:CCSS.ELA-Literacy.SL.6.1",
+        "ccss-ela:CCSS.ELA-Literacy.SL.6.1d"
       ]
     },
     {
@@ -5105,7 +5214,7 @@
       "ageRangeStart": 10,
       "ageRangeEnd": 11,
       "gradeStart": "5",
-      "gradeEnd": "5",
+      "gradeEnd": "6",
       "centrality": 0.04103967168262654,
       "evidence": [
         "Identify the main claim in a spoken presentation and the evidence used to support it",
@@ -5114,7 +5223,8 @@
       ],
       "assessmentPrompt": "When {{name}} listens to a speaker making a case for something, can they explain back to you both what the speaker claimed and the reasons and evidence they gave to back it up?",
       "standards": [
-        "ccss-ela:SL.5.3"
+        "ccss-ela:SL.5.3",
+        "ccss-ela:CCSS.ELA-Literacy.SL.6.3"
       ]
     },
     {
@@ -5127,7 +5237,7 @@
       "ageRangeStart": 10,
       "ageRangeEnd": 11,
       "gradeStart": "5",
-      "gradeEnd": "5",
+      "gradeEnd": "6",
       "centrality": 0.01094391244870041,
       "evidence": [
         "Select graphics, images, or sound that support and clarify main ideas in a presentation",
@@ -5136,7 +5246,8 @@
       ],
       "assessmentPrompt": "When {{name}} gives a presentation at school, do they think about including things like diagrams, slides, or pictures to help make their points clearer for the audience?",
       "standards": [
-        "ccss-ela:SL.5.5"
+        "ccss-ela:SL.5.5",
+        "ccss-ela:CCSS.ELA-Literacy.SL.6.5"
       ]
     },
     {
@@ -5203,7 +5314,9 @@
       "assessmentPrompt": "Can {{name}} give a short prepared speech or presentation in Standard English — staying on point and adjusting their vocabulary to suit the audience?",
       "standards": [
         "uk-nc-2013:KS3-ENG-SE-1a",
-        "uk-nc-2013:KS3-ENG-SE-1b"
+        "uk-nc-2013:KS3-ENG-SE-1b",
+        "ccss-ela:CCSS.ELA-Literacy.SL.6.4",
+        "ccss-ela:CCSS.ELA-Literacy.SL.6.6"
       ]
     },
     {
@@ -5273,7 +5386,8 @@
         "ccss-ela:L.K.2d",
         "uk-nc-2013:Eng_App1_Y1_04",
         "uk-nc-2013:Eng_App1_Y2_01",
-        "uk-nc-2013:Eng_Y1_WT_01"
+        "uk-nc-2013:Eng_Y1_WT_01",
+        "ccss-ela:RF.1.2.d"
       ]
     },
     {
@@ -5432,7 +5546,10 @@
         "Add a possessive apostrophe to a singular noun in a dictated sentence"
       ],
       "assessmentPrompt": "When {{name}} writes something belonging to one person or thing — like \"the dog's lead\" or \"the girl's bag\" — do they put the apostrophe in the right place?",
-      "standards": []
+      "standards": [
+        "ccss-ela:L.1.1b",
+        "ccss-ela:L.2.2c"
+      ]
     },
     {
       "id": "mt_IntmJBg4VQ",
@@ -5643,7 +5760,9 @@
         "ccss-ela:L.5.4c",
         "uk-nc-2013:Eng.UKS2.Write.Trans.Spell.5",
         "uk-nc-2013:Eng.UKS2.Write.Trans.Spell.6",
-        "uk-nc-2013:Eng_LKS2_Write_Trans_Spell_5"
+        "uk-nc-2013:Eng_LKS2_Write_Trans_Spell_5",
+        "ccss-ela:L.2.4e",
+        "ccss-ela:L.5.2e"
       ]
     },
     {
@@ -6098,7 +6217,9 @@
         "Explain the difference between 'She was on fire' (figurative — performing well) and 'The log was on fire' (literal)"
       ],
       "assessmentPrompt": "When {{name}} reads a phrase like \"it's raining cats and dogs\" or \"she had butterflies in her stomach,\" do they know it doesn't mean what the words literally say?",
-      "standards": []
+      "standards": [
+        "ccss-ela:L.3.5a"
+      ]
     },
     {
       "id": "mt_E5YbLvMgLL",
@@ -6169,7 +6290,8 @@
       "assessmentPrompt": "If {{name}} comes across an unfamiliar word containing a Greek or Latin root they recognize — like \"port\" in \"transport\" or \"bio\" in \"biology\" — can they use that to work out the meaning?",
       "standards": [
         "ccss-ela:L.4.4b",
-        "ccss-ela:L.5.4b"
+        "ccss-ela:L.5.4b",
+        "ccss-ela:RF.5.3.a"
       ]
     },
     {
@@ -6369,7 +6491,9 @@
         "ccss-ela:L.8.4",
         "ccss-ela:L.8.4a",
         "ccss-ela:L.8.4b",
-        "uk-nc-2013:KS3-ENG-R-2a"
+        "uk-nc-2013:KS3-ENG-R-2a",
+        "ccss-ela:L.6.4d",
+        "ccss-ela:L.6.4c"
       ]
     },
     {
@@ -6457,7 +6581,7 @@
       "ageRangeStart": 5,
       "ageRangeEnd": 11,
       "gradeStart": "K",
-      "gradeEnd": "5",
+      "gradeEnd": "6",
       "centrality": 0.01641586867305062,
       "evidence": [
         "Read own sentences aloud with clear voice and appropriate expression",
@@ -6474,7 +6598,9 @@
         "uk-nc-2013:Eng.UKS2.Write.Comp.4",
         "uk-nc-2013:Eng/KS1/Y2/WC/4",
         "uk-nc-2013:Eng_LKS2_Write_Comp_10",
-        "uk-nc-2013:Eng_Y1_WC_06"
+        "uk-nc-2013:Eng_Y1_WC_06",
+        "ccss-ela:W.1.6",
+        "ccss-ela:W.6.6"
       ]
     },
     {
@@ -6495,7 +6621,10 @@
         "Include a reaction or ending to a narrative (e.g. 'I felt happy')"
       ],
       "assessmentPrompt": "Can {{name}} write a short story about something that happened — with a clear beginning, middle, and end — so that someone who wasn't there could follow what happened and in what order?",
-      "standards": []
+      "standards": [
+        "ccss-ela:W.K.3",
+        "ccss-ela:W.1.3"
+      ]
     },
     {
       "id": "mt_91f1XFvGZq",
@@ -6515,7 +6644,9 @@
         "Draw, dictate, or write to express a preference about a book or topic"
       ],
       "assessmentPrompt": "Can {{name}} write a sentence or two giving their opinion about something — like their favorite book or food — and explain why they feel that way?",
-      "standards": []
+      "standards": [
+        "ccss-ela:W.K.1"
+      ]
     },
     {
       "id": "mt_o8ciHks8t2",
@@ -6555,7 +6686,9 @@
         "Name a topic and provide relevant details about it"
       ],
       "assessmentPrompt": "Can {{name}} write a few sentences explaining something they know about — like how butterflies grow or how to make a sandwich — naming the topic and sharing some facts?",
-      "standards": []
+      "standards": [
+        "ccss-ela:W.K.2"
+      ]
     },
     {
       "id": "mt_hp2qJ-QRBn",
@@ -6592,7 +6725,9 @@
         "ccss-ela:W.5.2b",
         "ccss-ela:W.5.2c",
         "ccss-ela:W.5.2d",
-        "ccss-ela:W.5.2e"
+        "ccss-ela:W.5.2e",
+        "ccss-ela:W.1.2",
+        "ccss-ela:W.2.2"
       ]
     },
     {
@@ -6702,7 +6837,8 @@
         "ccss-ela:W.5.1a",
         "ccss-ela:W.5.1b",
         "ccss-ela:W.5.1c",
-        "ccss-ela:W.5.1d"
+        "ccss-ela:W.5.1d",
+        "ccss-ela:W.2.1"
       ]
     },
     {
@@ -6843,7 +6979,8 @@
         "uk-nc-2013:Eng.UKS2.Write.Comp.3b",
         "uk-nc-2013:Eng.UKS2.Write.Comp.3c",
         "uk-nc-2013:Eng.UKS2.Write.Comp.3d",
-        "uk-nc-2013:Eng.UKS2.Write.Comp.3e"
+        "uk-nc-2013:Eng.UKS2.Write.Comp.3e",
+        "ccss-ela:W.2.5"
       ]
     },
     {
@@ -6887,7 +7024,9 @@
       "standards": [
         "ccss-ela:W.4.7",
         "ccss-ela:W.4.8",
-        "ccss-ela:W.5.7"
+        "ccss-ela:W.5.7",
+        "ccss-ela:W.3.7",
+        "ccss-ela:W.3.8"
       ]
     },
     {
@@ -6911,7 +7050,8 @@
       "standards": [
         "ccss-ela:L.4.3a",
         "ccss-ela:L.4.3b",
-        "uk-nc-2013:Eng.UKS2.Write.Comp.2a"
+        "uk-nc-2013:Eng.UKS2.Write.Comp.2a",
+        "ccss-ela:L.3.3a"
       ]
     },
     {
@@ -7136,7 +7276,9 @@
       "standards": [
         "ccss-ela:W.8.2.c",
         "ccss-ela:W.8.3.c",
-        "uk-nc-2013:KS3-ENG-W-1c"
+        "uk-nc-2013:KS3-ENG-W-1c",
+        "ccss-ela:W.6.2.c",
+        "ccss-ela:W.6.3.c"
       ]
     },
     {
@@ -7166,7 +7308,11 @@
         "ccss-ela:W.8.2.d",
         "ccss-ela:W.8.2.f",
         "uk-nc-2013:KS3-ENG-W-1a",
-        "uk-nc-2013:KS3-ENG-W-1b"
+        "uk-nc-2013:KS3-ENG-W-1b",
+        "ccss-ela:W.6.2.a",
+        "ccss-ela:W.6.2.b",
+        "ccss-ela:W.6.2.d",
+        "ccss-ela:W.6.2.f"
       ]
     },
     {
@@ -7196,7 +7342,12 @@
         "ccss-ela:W.8.1.c",
         "ccss-ela:W.8.1.d",
         "ccss-ela:W.8.1.e",
-        "uk-nc-2013:KS3-ENG-W-1a"
+        "uk-nc-2013:KS3-ENG-W-1a",
+        "ccss-ela:W.6.1.a",
+        "ccss-ela:W.6.1.b",
+        "ccss-ela:W.6.1.c",
+        "ccss-ela:W.6.1.d",
+        "ccss-ela:W.6.1.e"
       ]
     },
     {
@@ -7251,7 +7402,8 @@
         "ccss-ela:W.7.8",
         "ccss-ela:W.8.7",
         "ccss-ela:W.8.8",
-        "uk-nc-2013:KS3-ENG-W-1b"
+        "uk-nc-2013:KS3-ENG-W-1b",
+        "ccss-ela:W.6.1.b"
       ]
     },
     {
@@ -7276,7 +7428,8 @@
         "ccss-ela:W.6.4",
         "ccss-ela:W.7.4",
         "ccss-ela:W.8.4",
-        "uk-nc-2013:KS3-ENG-W-1a"
+        "uk-nc-2013:KS3-ENG-W-1a",
+        "ccss-ela:W.6.10"
       ]
     },
     {
@@ -7305,7 +7458,12 @@
         "ccss-ela:W.8.3.b",
         "ccss-ela:W.8.3.d",
         "ccss-ela:W.8.3.e",
-        "uk-nc-2013:KS3-ENG-W-1a"
+        "uk-nc-2013:KS3-ENG-W-1a",
+        "ccss-ela:W.6.3.a",
+        "ccss-ela:W.6.3.b",
+        "ccss-ela:W.6.3.c",
+        "ccss-ela:W.6.3.d",
+        "ccss-ela:W.6.3.e"
       ]
     },
     {
@@ -8507,8 +8665,9 @@
       "gradeEnd": "2",
       "centrality": 0.03967168262653899,
       "evidence": [
-        "Wineburg corroboration heuristic",
-        "Initiating Historical Thinking in Elementary Schools"
+        "Retell two different accounts of the same event and say how they differ",
+        "Explain that two people can both be honest and still describe an event differently",
+        "Suggest a reason two accounts differ (e.g., where each person was or what they cared about)"
       ],
       "assessmentPrompt": "If {{name}} heard two different versions of the same historical event, would they understand that both people might be telling the truth from their own point of view — and want to know why the versions differ?",
       "standards": []
@@ -8526,8 +8685,9 @@
       "gradeEnd": "1",
       "centrality": 0.04924760601915185,
       "evidence": [
-        "Wineburg historical thinking framework",
-        "Historical Thinking in the Elementary Years (ERIC)"
+        "Answer \"How do we know?\" about a past event by naming a kind of evidence (an object, building, picture, document, or story)",
+        "Sort objects or pictures into things from long ago and things from today, and explain the clues",
+        "Explain that people learn about the past from things that survived or were left behind"
       ],
       "assessmentPrompt": "When {{name}} learns about something that happened long ago, do they ask how we know about it — and understand that someone had to find or leave behind that evidence?",
       "standards": []
@@ -8565,8 +8725,9 @@
       "gradeEnd": "4",
       "centrality": 0.1094391244870041,
       "evidence": [
-        "Wineburg corroboration heuristic",
-        "Historical Thinking in the Elementary Years (ERIC)"
+        "Compare two sources about the same event and list facts they agree on and facts they disagree on",
+        "Explain why checking more than one source gives a better picture than trusting just one",
+        "Suggest a reason two sources might disagree and what other evidence could settle it"
       ],
       "assessmentPrompt": "If {{name}} was trying to find out what really happened in a historical event, would they know to look at more than one source and compare what they say?",
       "standards": []
@@ -8584,8 +8745,9 @@
       "gradeEnd": "4",
       "centrality": 0.09028727770177838,
       "evidence": [
-        "Wineburg sourcing heuristic",
-        "Teaching Historical Thinking Using Primary Sources (Library of Congress)"
+        "Ask who made a source, when, and why before using it",
+        "Explain how a creator's purpose or point of view might affect what a source shows or leaves out",
+        "Decide whether a source is more or less trustworthy for a given question, and explain why"
       ],
       "assessmentPrompt": "When {{name}} looks at a historical document, photograph, or account, do they ask who created it and what that person's reasons or point of view might have been?",
       "standards": []
@@ -8603,8 +8765,9 @@
       "gradeEnd": "4",
       "centrality": 0.03283173734610123,
       "evidence": [
-        "Historical Empathy: A Cognitive-Affective Theory (ERIC)",
-        "Grades 3–5 historical empathy research"
+        "Explain why people in a past time might have thought a practice was normal, using what life was like then",
+        "Describe how a past action looks different when judged by today's values and by the values of its own time",
+        "Avoid calling people in the past \"stupid\" or \"bad\" without first considering the beliefs and knowledge of their time"
       ],
       "assessmentPrompt": "If {{name}} learns that people in the past did something that seems wrong today, can they think about why those people might have believed it was normal or right at the time?",
       "standards": []
@@ -8622,8 +8785,9 @@
       "gradeEnd": "5",
       "centrality": 0.1162790697674419,
       "evidence": [
-        "Development of historical understanding among 9-14 year olds",
-        "Ways of Seeing: Evidence and Learning in the History Classroom (RRCHNM)"
+        "Sort statements about a historical topic into evidence (what survived) and interpretation (what someone argues from it)",
+        "Explain how two historians could reach different conclusions from the same evidence",
+        "Support their own interpretation of a past event with specific pieces of evidence"
       ],
       "assessmentPrompt": "Does {{name}} understand that two historians can look at the same evidence and reach different conclusions — and that history involves argument and judgment, not just facts?",
       "standards": []
@@ -9141,8 +9305,9 @@
       "gradeEnd": "K",
       "centrality": 0.3119015047879617,
       "evidence": [
-        "Hattie visible learning",
-        "self-regulated learning research"
+        "Try a task on their own before asking for help",
+        "Ask for help when still stuck, saying what they tried and where they got stuck",
+        "Ask for help calmly instead of giving up or getting upset"
       ],
       "assessmentPrompt": "If {{name}} has tried something and is still stuck, do they come and ask for help rather than sitting frustrated or giving up?",
       "standards": []
@@ -9200,8 +9365,9 @@
       "gradeEnd": "1",
       "centrality": 0.3119015047879617,
       "evidence": [
-        "comprehension monitoring research",
-        "Flavell metacognitive monitoring"
+        "Say when something they are reading or hearing does not make sense, instead of carrying on",
+        "Point to the word, sentence, or step that confused them",
+        "Ask a question or reread when they notice they are confused"
       ],
       "assessmentPrompt": "If {{name}} is reading or listening and something doesn't make sense, do they notice and say so — rather than carrying on as if they understood?",
       "standards": []
@@ -9239,8 +9405,9 @@
       "gradeEnd": "1",
       "centrality": 0.2024623803009576,
       "evidence": [
-        "prior knowledge activation research",
-        "Ausubel meaningful learning"
+        "Before starting a new topic or task, tell what they already know about it",
+        "Ask themselves what they want to find out before they begin",
+        "Use something they already know to help start a new task (e.g., \"This is like the problem we did yesterday\")"
       ],
       "assessmentPrompt": "When {{name}} is about to learn something new — say a new topic in science or a new type of word problem — do they first think about what they already know?",
       "standards": []
@@ -9258,8 +9425,9 @@
       "gradeEnd": "2",
       "centrality": 0.1299589603283174,
       "evidence": [
-        "elaborative encoding",
-        "schema theory (Bartlett, Rumelhart)"
+        "Connect a new idea to something they already know (e.g., \"That's like...\")",
+        "Explain how a new idea is similar to and different from something learned before",
+        "Use what they already know to make sense of a new example"
       ],
       "assessmentPrompt": "When {{name}} learns something new, do they ever say things like 'oh, that's like...' and connect it to something they already knew?",
       "standards": []
@@ -9357,8 +9525,9 @@
       "gradeEnd": "3",
       "centrality": 0.09849521203830369,
       "evidence": [
-        "error analysis research",
-        "Hattie feedback effect size"
+        "Look back at a wrong answer and explain what went wrong",
+        "Tell whether a mistake came from misunderstanding, missing a step, or carelessness",
+        "Correct the mistake and say what they will do differently next time"
       ],
       "assessmentPrompt": "When {{name}} gets something wrong on a test or activity, do they look at the mistake to understand what went wrong — rather than just moving on?",
       "standards": []
@@ -9376,8 +9545,9 @@
       "gradeEnd": "3",
       "centrality": 0.009575923392612859,
       "evidence": [
-        "transfer of learning research",
-        "Perkins & Salomon transfer taxonomy"
+        "Name a skill or strategy from one subject that could help in another (e.g., using a chart in science and in writing)",
+        "Use a strategy learned in one situation to solve a problem in a new one",
+        "Explain why a strategy works in both places"
       ],
       "assessmentPrompt": "Has {{name}} ever spotted that something they learned in one subject — like a way of organizing information — could help them in a completely different one?",
       "standards": []
@@ -9435,8 +9605,9 @@
       "gradeEnd": "4",
       "centrality": 0.06429548563611491,
       "evidence": [
-        "Kolb reflective learning cycle",
-        "Hattie & Timperley feedback model"
+        "After finishing a project or topic, describe what helped them learn most",
+        "Name something that was confusing and what they did about it",
+        "Say one thing they would do differently next time and why"
       ],
       "assessmentPrompt": "After {{name}} finishes a project or topic at school, do they reflect on how the learning went — not just whether the result was good, but what worked and what didn't?",
       "standards": []
@@ -9454,8 +9625,9 @@
       "gradeEnd": "5",
       "centrality": 0.08481532147742818,
       "evidence": [
-        "metacognitive monitoring research",
-        "Flavell metacognition framework"
+        "Rate their understanding of each part of a topic as solid, shaky, or not yet, with honest reasons",
+        "Test themselves on a part they think they know and check whether they really do",
+        "Make a plan to work on the parts they rated shaky or not yet"
       ],
       "assessmentPrompt": "If you ask {{name}} how well they understand a whole topic, can they tell you honestly which parts they feel confident on and which parts need more work?",
       "standards": []
@@ -22762,9 +22934,9 @@
       "gradeEnd": "K",
       "centrality": 0.03146374829001368,
       "evidence": [
-        "emotional literacy research",
-        "Fostering Emotional Literacy in Young Children (HeadStart.gov)",
-        "emotion vocabulary development 4-11 years (PMC)"
+        "Name the feeling they are having (e.g., happy, sad, angry, scared, excited, frustrated)",
+        "Match feeling words to faces, pictures, or story characters",
+        "Say how their body feels with a strong emotion (e.g., \"My tummy feels tight when I'm nervous\")"
       ],
       "assessmentPrompt": "When {{name}} seems upset, excited, or frustrated, can they stop and tell you what emotion they're feeling — even if they can't fully explain why?",
       "standards": []
@@ -22802,9 +22974,9 @@
       "gradeEnd": "2",
       "centrality": 0.03146374829001368,
       "evidence": [
-        "emotion regulation development research",
-        "Effects of Age and Gender in Emotion Regulation (PMC 2020)",
-        "expressive control to emotion regulation (PMC)"
+        "Explain that they can feel angry, scared, or jealous without having to act on it right away",
+        "Describe something they could do while having a strong feeling instead of hitting, yelling, or grabbing",
+        "Use a calming step, such as taking a breath or walking away, before acting on a strong feeling"
       ],
       "assessmentPrompt": "Does {{name}} understand that feeling angry, scared, or jealous doesn't mean they have to act on it immediately — that there's a gap between the feeling and what they choose to do next?",
       "standards": []
@@ -22822,8 +22994,9 @@
       "gradeEnd": "3",
       "centrality": 0.03693570451436388,
       "evidence": [
-        "middle childhood self-reliance in emotion regulation",
-        "7-year developmental shift in self-understanding research"
+        "Describe a situation that often triggers a strong feeling for them (e.g., being tired, left out, or put on the spot)",
+        "Notice a pattern in their own reactions (e.g., \"I get grumpy when I'm hungry\")",
+        "Suggest a way to plan ahead for a situation they know is hard for them"
       ],
       "assessmentPrompt": "Has {{name}} ever noticed a pattern in how they react — for example, that they get more upset at certain times of day, or that a particular type of situation reliably triggers a strong feeling?",
       "standards": []
@@ -22881,8 +23054,9 @@
       "gradeEnd": "5",
       "centrality": 0.04924760601915185,
       "evidence": [
-        "emotion vocabulary development continues to age 11 (PMC)",
-        "self-reflection importance in children research"
+        "Name something that used to be hard for them and is easier now",
+        "Explain what helped them change, such as practice, help from others, or a new strategy",
+        "Describe something that is hard now that they expect to get better at, and how"
       ],
       "assessmentPrompt": "Can {{name}} look back over the past year or two and point to something they used to find really difficult that they now handle better — and explain what changed?",
       "standards": []
@@ -31242,8 +31416,9 @@
       "gradeEnd": "2",
       "centrality": 0.03693570451436388,
       "evidence": [
-        "belief revision in children research (PMC 2020)",
-        "hypothesis testing and argumentation from evidence in young children"
+        "Compare their prediction with the result and say whether it matched",
+        "Accept a result that does not match their prediction instead of insisting the experiment went wrong",
+        "Change their explanation to fit new evidence and explain what made them change their mind"
       ],
       "assessmentPrompt": "If {{name}} predicts what will happen in an experiment and gets a different result, do they accept the evidence rather than deciding the experiment must have gone wrong?",
       "standards": []
@@ -31261,8 +31436,9 @@
       "gradeEnd": "1",
       "centrality": 0.0560875512995896,
       "evidence": [
-        "observation vs interpretation in primary science",
-        "BERA: children's observation skills in nature"
+        "Describe what they actually saw, heard, or measured in a science activity",
+        "Sort statements into observations (\"the ice melted\") and interpretations (\"the ice melted because of the heat\")",
+        "Point to the observation that supports an interpretation"
       ],
       "assessmentPrompt": "When {{name}} does a science activity, can they tell the difference between what they actually saw or measured — and what they think caused it or what it means?",
       "standards": []
@@ -31303,8 +31479,9 @@
       "gradeEnd": "3",
       "centrality": 0.06292749658002736,
       "evidence": [
-        "prompts to consider alternative possible worlds research (6-7 year olds)",
-        "scientific thinking promotes critical thinking (MDPI 2025)"
+        "Give at least one other possible explanation for a result they observed",
+        "Suggest how they could test which explanation is right",
+        "Explain why the first explanation that fits is not always the correct one"
       ],
       "assessmentPrompt": "When {{name}} comes up with an explanation for something they observed, do they try to think of at least one other possible explanation before deciding they've found the answer?",
       "standards": []
@@ -31435,8 +31612,9 @@
       "gradeEnd": "4",
       "centrality": 0.05198358413132695,
       "evidence": [
-        "developmental changes in children's recognition of evidence relevance to causal explanations",
-        "causal learning research"
+        "Explain that two things happening together does not prove that one causes the other",
+        "Suggest another reason two things might happen together (e.g., a third factor)",
+        "Describe a fair test that could show whether one thing really causes the other"
       ],
       "assessmentPrompt": "If {{name}} noticed that children who eat breakfast tend to do better at school, would they understand that breakfast might not be the cause — there could be another reason both things are true?",
       "standards": []

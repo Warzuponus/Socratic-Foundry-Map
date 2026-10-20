@@ -1,0 +1,1135 @@
+{
+  "framework": "ccss-ela",
+  "reviewedBy": "Claude (AI-proposed, pending human review)",
+  "date": "2026-10-19",
+  "method": "Each K-6 CCSS ELA standard (RF, RL, RI, W, SL and L strands, including the grade 6 Speaking & Listening standards stored under CCSS.ELA-Literacy.SL.6.*) with no linked topic was checked at the leaf level (sub-standards where they exist) against English topics starting in grades PK-6. Links only where the topic's description and evidence clearly cover part (partial) or all (full) of the standard text in curriculum-standards.json. Notes, keyed by the standard's grade, explain partial links. `unlinked` lists standards left without a topic and why.",
+  "links": [
+    {
+      "topicId": "mt_-DuXzMVVXQ",
+      "name": "Paraphrasing What You Hear",
+      "standards": [
+        {
+          "key": "ccss-ela:SL.3.2",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "3": "Restating main ideas and key details from read-alouds and media; same skill as SL.4.2, extended down one grade"
+      }
+    },
+    {
+      "topicId": "mt_1GF5MeNZPA",
+      "name": "Critical comparison across texts",
+      "standards": [
+        {
+          "key": "ccss-ela:RL.6.9",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:W.6.9.a",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "6": "Compares themes across genres (RL.6.9); W.6.9.a asks for the same comparison carried into writing with evidence"
+      }
+    },
+    {
+      "topicId": "mt_2NfIKEYdbm",
+      "name": "Agreement in sentences",
+      "standards": [
+        {
+          "key": "ccss-ela:L.3.1f",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_4-vfMgmCVB",
+      "name": "Cohesion within paragraphs",
+      "standards": [
+        {
+          "key": "ccss-ela:L.6.1d",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "6": "Fixing pronouns that make a paragraph ambiguous; Pronouns for clarity (grades 2-3) teaches the same idea with simpler sentences"
+      }
+    },
+    {
+      "topicId": "mt_6W5zzDIGZH",
+      "name": "Using a Dictionary to Check Spellings",
+      "standards": [
+        {
+          "key": "ccss-ela:L.2.4e",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-ela:L.5.2e",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "2": "Uses beginning dictionaries and glossaries, but to check spelling rather than meaning"
+      }
+    },
+    {
+      "topicId": "mt_8bIXVKTdtK",
+      "name": "Abstract nouns",
+      "standards": [
+        {
+          "key": "ccss-ela:L.3.1c",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_91f1XFvGZq",
+      "name": "Writing opinions",
+      "standards": [
+        {
+          "key": "ccss-ela:W.K.1",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_9lN0SpKlEH",
+      "name": "Writing Across Genres",
+      "standards": [
+        {
+          "key": "ccss-ela:W.6.10",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "6": "Writing for a range of purposes and audiences; the routine of writing over extended and short time frames is not modeled by any topic"
+      }
+    },
+    {
+      "topicId": "mt_9yFAtUkoYr",
+      "name": "Pronouns for clarity",
+      "standards": [
+        {
+          "key": "ccss-ela:L.2.1c",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_BLzNxSSdWu",
+      "name": "Writing Character & Dialogue",
+      "standards": [
+        {
+          "key": "ccss-ela:W.6.3.a",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:W.6.3.b",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:W.6.3.c",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-ela:W.6.3.d",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-ela:W.6.3.e",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "6": "Same coverage as the existing W.8.3 links; sensory language (W.6.3.d) is not named"
+      }
+    },
+    {
+      "topicId": "mt_BhYJZUsErp",
+      "name": "Segmenting words into sounds",
+      "standards": [
+        {
+          "key": "ccss-ela:RF.1.2.d",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "1": "Segmenting spoken single-syllable words into phonemes"
+      }
+    },
+    {
+      "topicId": "mt_Cc-QHVo747",
+      "name": "Drawing Conclusions from Discussion",
+      "standards": [
+        {
+          "key": "ccss-ela:CCSS.ELA-Literacy.SL.6.1",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-ela:CCSS.ELA-Literacy.SL.6.1d",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "6": "Reviewing key ideas and synthesizing multiple viewpoints from a discussion"
+      }
+    },
+    {
+      "topicId": "mt_E5KC4AnRLW",
+      "name": "Reading between the lines",
+      "standards": [
+        {
+          "key": "ccss-ela:RL.K.1",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:RI.K.1",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:RL.1.1",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:RI.1.1",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:RL.2.1",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:RI.2.1",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "2": "Evidence includes answering who/what/where questions about a text",
+        "K": "Asking and answering questions about key details (with support at K)"
+      }
+    },
+    {
+      "topicId": "mt_FW9_8F52bw",
+      "name": "Short Research Projects",
+      "standards": [
+        {
+          "key": "ccss-ela:W.3.7",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:W.3.8",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_GLY3R3YSlf",
+      "name": "Comparing Characters Across Stories",
+      "standards": [
+        {
+          "key": "ccss-ela:RL.2.9",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "2": "Comparing two stories; RL.2.9 asks for versions of the same story"
+      }
+    },
+    {
+      "topicId": "mt_H0ajATAlus",
+      "name": "Morals in Fables, Folktales and Myths",
+      "standards": [
+        {
+          "key": "ccss-ela:RL.3.2",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_II6iw4BmJI",
+      "name": "Analyzing Text Structure",
+      "standards": [
+        {
+          "key": "ccss-ela:RI.6.3",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "6": "Role of a paragraph in developing a key concept; RI.6.3 also covers how individuals and events are introduced and illustrated"
+      }
+    },
+    {
+      "topicId": "mt_KIG5FQI5fC",
+      "name": "Irregular past tense verbs",
+      "standards": [
+        {
+          "key": "ccss-ela:L.2.1d",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_KbCCmLmxYN",
+      "name": "Interpreting visual information in texts",
+      "standards": [
+        {
+          "key": "ccss-ela:RI.6.7",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:CCSS.ELA-Literacy.SL.6.2",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "6": "Integrating visual or quantitative information with the words of a text; same skill as RI.4.7, now continued to grade 6"
+      }
+    },
+    {
+      "topicId": "mt_KmPZ5diLEP",
+      "name": "Character Traits and Motivation",
+      "standards": [
+        {
+          "key": "ccss-ela:RL.3.3",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:RL.3.6",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_LMX-nZETLM",
+      "name": "Vivid Word Choices",
+      "standards": [
+        {
+          "key": "ccss-ela:L.3.3a",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_LNYTNpJOGT",
+      "name": "Building on Others in Discussions",
+      "standards": [
+        {
+          "key": "ccss-ela:CCSS.ELA-Literacy.SL.6.1c",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_Of-WsrRQ8B",
+      "name": "Simple Past, Present and Future",
+      "standards": [
+        {
+          "key": "ccss-ela:L.3.1e",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_OltpfaX7l6",
+      "name": "Why the author wrote it",
+      "standards": [
+        {
+          "key": "ccss-ela:RI.3.6",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_PvU3eoikev",
+      "name": "Onsets & Rimes",
+      "standards": [
+        {
+          "key": "ccss-ela:RF.K.2.c",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:RF.K.2.d",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:RF.K.2.e",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:RF.1.2.c",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:RF.1.2.b",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Isolating initial, medial and final sounds; blends onsets and rimes but not full phoneme-by-phoneme blending of consonant blends",
+        "K": "Description matches RF.K.2.c-e word for word (onset-rime blending, CVC phoneme isolation, sound substitution)"
+      }
+    },
+    {
+      "topicId": "mt_QCWWmDMYZR",
+      "name": "Main Topic & Key Details",
+      "standards": [
+        {
+          "key": "ccss-ela:RI.2.2",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:RI.2.3",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_Qcsl1Z1x0l",
+      "name": "Research & Source Evaluation",
+      "standards": [
+        {
+          "key": "ccss-ela:W.6.1.b",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "6": "Assessing credibility of sources used as evidence"
+      }
+    },
+    {
+      "topicId": "mt_Qxyikkkzam",
+      "name": "Persuasive Writing",
+      "standards": [
+        {
+          "key": "ccss-ela:W.6.1.a",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:W.6.1.b",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-ela:W.6.1.c",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:W.6.1.d",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:W.6.1.e",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "6": "Same coverage as the existing W.8.1.a-e links; using credible sources (W.6.1.b) is in Research & Source Evaluation"
+      }
+    },
+    {
+      "topicId": "mt_S2fP8rUwrl",
+      "name": "Standard English",
+      "standards": [
+        {
+          "key": "ccss-ela:W.6.2.e",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "6": "Writing in formal Standard English, without the informational-text focus"
+      }
+    },
+    {
+      "topicId": "mt_SUOhjmRqv9",
+      "name": "Literal vs Figurative Language",
+      "standards": [
+        {
+          "key": "ccss-ela:L.3.5a",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_V-ldQp56bF",
+      "name": "Reading with Expression and Accuracy",
+      "standards": [
+        {
+          "key": "ccss-ela:RF.5.4.b",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:RF.5.4.a",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-ela:RL.5.10",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-ela:RI.5.10",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "5": "Same fluency expectations as RF.4.4, already linked. RL/RI.5.10 linked partially for consistency with the existing RL.4.10/RI.4.10 links: the topic covers reading grade-level text accurately, not the grades 4-5 text-complexity band"
+      }
+    },
+    {
+      "topicId": "mt_VtqvUORa8K",
+      "name": "Multimedia Presentations",
+      "standards": [
+        {
+          "key": "ccss-ela:CCSS.ELA-Literacy.SL.6.5",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_WKxX-b86Vr",
+      "name": "Structured Opinion Writing",
+      "standards": [
+        {
+          "key": "ccss-ela:W.2.1",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_WZnwITSWr8",
+      "name": "Vocabulary Strategies",
+      "standards": [
+        {
+          "key": "ccss-ela:L.6.4d",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:L.6.4c",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "6": "Verifying an inferred meaning in a dictionary; finding pronunciation and part of speech (L.6.4c) are not named"
+      }
+    },
+    {
+      "topicId": "mt_X1L9DoUwjF",
+      "name": "Comparatives & Superlatives",
+      "standards": [
+        {
+          "key": "ccss-ela:L.3.1g",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_YKkCM63fSC",
+      "name": "Reading High-Frequency Words by Sight",
+      "standards": [
+        {
+          "key": "ccss-ela:RF.K.3.c",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:RF.1.3.g",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_Z3G_97fnha",
+      "name": "Apostrophes for possession",
+      "standards": [
+        {
+          "key": "ccss-ela:L.1.1b",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-ela:L.2.2c",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Possessive nouns",
+        "2": "Possessive apostrophes; contractions are in Apostrophes: Contraction and Possession"
+      }
+    },
+    {
+      "topicId": "mt_ZBMcX2oRor",
+      "name": "Reciting Poetry",
+      "standards": [
+        {
+          "key": "ccss-ela:SL.K.5",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "K": "Adding a drawing or visual display to an oral description, as already linked for SL.1.5"
+      }
+    },
+    {
+      "topicId": "mt_ZhUuT__i2H",
+      "name": "Non-Fiction Text Features",
+      "standards": [
+        {
+          "key": "ccss-ela:L.2.4e",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "2": "Knowing what a glossary is for"
+      }
+    },
+    {
+      "topicId": "mt__CMXZiPfTV",
+      "name": "Reading Inflectional Endings",
+      "standards": [
+        {
+          "key": "ccss-ela:RF.1.3.f",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt__KHQttMde3",
+      "name": "Blending Sounds to Read Words",
+      "standards": [
+        {
+          "key": "ccss-ela:RF.1.2.b",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Oral blending of individual sounds, practised while decoding; RF.1.2.b is the purely oral version including consonant blends"
+      }
+    },
+    {
+      "topicId": "mt__MDiDU9Vck",
+      "name": "Writing to inform",
+      "standards": [
+        {
+          "key": "ccss-ela:W.K.2",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_aFvsj35QzC",
+      "name": "Main Topic of Informational Texts",
+      "standards": [
+        {
+          "key": "ccss-ela:RI.K.2",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:RI.K.3",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_cU3LcEVkBQ",
+      "name": "Expanded noun phrases",
+      "standards": [
+        {
+          "key": "ccss-ela:L.1.1f",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_dmFnJzxKwz",
+      "name": "Using and Evaluating Textual Evidence",
+      "standards": [
+        {
+          "key": "ccss-ela:W.6.9",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "6": "Citing textual evidence in written responses to support analysis; reflection and research uses are not covered"
+      }
+    },
+    {
+      "topicId": "mt_enj1sMcfOT",
+      "name": "Past, Present and Progressive Tense",
+      "standards": [
+        {
+          "key": "ccss-ela:L.1.1e",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Past and present tense; future tense is taught in Simple Past, Present and Future (grade 3)"
+      }
+    },
+    {
+      "topicId": "mt_f8n4txtLej",
+      "name": "Asking Questions",
+      "standards": [
+        {
+          "key": "ccss-ela:SL.1.1.c",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:SL.2.1.c",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:SL.3.1.c",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "3": "Asking questions to check understanding"
+      }
+    },
+    {
+      "topicId": "mt_gMSFymQlrW",
+      "name": "Evaluating Arguments in Non-Fiction",
+      "standards": [
+        {
+          "key": "ccss-ela:W.6.9.b",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "6": "The grade 6 reading skill W.6.9.b applies (tracing and evaluating claims); writing about it is not explicit"
+      }
+    },
+    {
+      "topicId": "mt_hp2qJ-QRBn",
+      "name": "Basic Informational Writing",
+      "standards": [
+        {
+          "key": "ccss-ela:W.1.2",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:W.2.2",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_j351evNNnB",
+      "name": "Adjectives vs adverbs",
+      "standards": [
+        {
+          "key": "ccss-ela:L.2.1e",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_mB7DVai-Uf",
+      "name": "Listening and responding",
+      "standards": [
+        {
+          "key": "ccss-ela:SL.K.1.a",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:SL.1.1.a",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:SL.2.1.a",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:SL.3.1.b",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:SL.5.1.b",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "5": "Following discussion rules; carrying out assigned roles is not covered"
+      }
+    },
+    {
+      "topicId": "mt_mKAZTqItRG",
+      "name": "Apostrophes: Contraction and Possession",
+      "standards": [
+        {
+          "key": "ccss-ela:L.2.2c",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_mLPEMpYb_R",
+      "name": "Listening to Texts Read Aloud",
+      "standards": [
+        {
+          "key": "ccss-ela:SL.2.2",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "2": "Discussing key details of texts read aloud; information presented through other media is not covered"
+      }
+    },
+    {
+      "topicId": "mt_nDAcXoPa0c",
+      "name": "Simple Stories with Beginning and Ending",
+      "standards": [
+        {
+          "key": "ccss-ela:W.K.3",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:W.1.3",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_nYU6x2E2T8",
+      "name": "Sharing and Publishing Your Writing",
+      "standards": [
+        {
+          "key": "ccss-ela:W.1.6",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:W.6.6",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "6": "Producing and publishing with digital tools; the three-page keyboarding requirement and online collaboration are not covered"
+      }
+    },
+    {
+      "topicId": "mt_of2GggtxFl",
+      "name": "Spaces Between Words",
+      "standards": [
+        {
+          "key": "ccss-ela:RF.K.1.c",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_on7FHCDmi-",
+      "name": "Evaluating a Speaker's Argument",
+      "standards": [
+        {
+          "key": "ccss-ela:CCSS.ELA-Literacy.SL.6.3",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "6": "Identifying a speaker's claims and evaluating whether reasons and evidence support them"
+      }
+    },
+    {
+      "topicId": "mt_pis4novXWQ",
+      "name": "Revising and editing (age 7+)",
+      "standards": [
+        {
+          "key": "ccss-ela:W.2.5",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_sXRHr7tfS5",
+      "name": "Engaging Listeners and Valuing Viewpoints",
+      "standards": [
+        {
+          "key": "ccss-ela:SL.2.1.b",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_sZXPK1FnRB",
+      "name": "Pronouns",
+      "standards": [
+        {
+          "key": "ccss-ela:L.1.1d",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_tn1rY9GbEZ",
+      "name": "Cohesion and Transitions Across Writing",
+      "standards": [
+        {
+          "key": "ccss-ela:W.6.2.c",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:W.6.3.c",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_uM6q_KBWKy",
+      "name": "Capitals for Names, Days and I",
+      "standards": [
+        {
+          "key": "ccss-ela:L.1.1b",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "1": "Proper nouns (as capitalized names)"
+      }
+    },
+    {
+      "topicId": "mt_ujwtRoYJ34",
+      "name": "Structural terminology",
+      "standards": [
+        {
+          "key": "ccss-ela:RL.3.5",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_v33BwiyRnd",
+      "name": "Story Lessons and Morals",
+      "standards": [
+        {
+          "key": "ccss-ela:RL.2.2",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_w4wKFP3jud",
+      "name": "Connecting Ideas in Texts",
+      "standards": [
+        {
+          "key": "ccss-ela:RI.3.3",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:RI.3.8",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_wGxq92Na5g",
+      "name": "Tracing Theme Across a Text",
+      "standards": [
+        {
+          "key": "ccss-ela:RI.6.3",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "6": "Tracing how a central idea develops through key details"
+      }
+    },
+    {
+      "topicId": "mt_wwdRhPyz6s",
+      "name": "Group discussions",
+      "standards": [
+        {
+          "key": "ccss-ela:SL.K.1",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:SL.K.1.b",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:SL.1.1",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:SL.1.1.b",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:SL.2.1",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:SL.2.1.b",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:SL.3.1",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:SL.3.1.c",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "3": "Staying on topic and linking comments to others; asking questions to check understanding is in Asking Questions"
+      }
+    },
+    {
+      "topicId": "mt_x_Lg4RASVU",
+      "name": "Greek and Latin Roots for Word Meaning",
+      "standards": [
+        {
+          "key": "ccss-ela:RF.5.3.a",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "5": "Covers the morphology (roots and affixes) part of decoding unfamiliar multisyllabic words; letter-sound and syllabication strategies are taught at grades 1-3"
+      }
+    },
+    {
+      "topicId": "mt_xjl6AEhnjk",
+      "name": "Characters' Viewpoints and Responses",
+      "standards": [
+        {
+          "key": "ccss-ela:RL.1.6",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:RL.2.3",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:RL.2.6",
+          "alignment": "partial"
+        },
+        {
+          "key": "ccss-ela:RL.2.9",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "2": "Compares characters' points of view but does not include reading dialogue aloud in different voices (RL.2.6); compares versions of the same story but not specifically by authors from different cultures (RL.2.9)"
+      }
+    },
+    {
+      "topicId": "mt_yrMniCJu_S",
+      "name": "Preparing for and Explaining in Discussions",
+      "standards": [
+        {
+          "key": "ccss-ela:SL.3.1.a",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:SL.3.1.d",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:CCSS.ELA-Literacy.SL.6.1a",
+          "alignment": "partial"
+        }
+      ],
+      "notes": {
+        "6": "Coming to discussions prepared and referring to the text; grade 6 adds probing and reflecting on ideas"
+      }
+    },
+    {
+      "topicId": "mt_z07UNAIsNc",
+      "name": "Speaking Formally and Giving Presentations",
+      "standards": [
+        {
+          "key": "ccss-ela:CCSS.ELA-Literacy.SL.6.4",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:CCSS.ELA-Literacy.SL.6.6",
+          "alignment": "full"
+        }
+      ],
+      "notes": {}
+    },
+    {
+      "topicId": "mt_zCUIJLdK_s",
+      "name": "Developed Informational and Explanatory Writing",
+      "standards": [
+        {
+          "key": "ccss-ela:W.6.2.a",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:W.6.2.b",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:W.6.2.d",
+          "alignment": "full"
+        },
+        {
+          "key": "ccss-ela:W.6.2.f",
+          "alignment": "full"
+        }
+      ],
+      "notes": {
+        "6": "Transitions (W.6.2.c) are in Cohesion and Transitions Across Writing; formal style (W.6.2.e) is partly in Standard English"
+      }
+    }
+  ],
+  "unlinked": [
+    {
+      "key": "ccss-ela:CCSS.ELA-Literacy.SL.6.1b",
+      "note": "No topic covers setting discussion goals, deadlines and roles. Basic discussion rules are in Listening and responding (mt_mB7DVai-Uf, PK-5), which was not stretched to grade 6."
+    },
+    {
+      "key": "ccss-ela:L.6.1a",
+      "note": "No grade 6 topic on pronoun case. Pronouns (mt_sZXPK1FnRB, grade 1) covers I/me in subject and object position only."
+    },
+    {
+      "key": "ccss-ela:L.6.1b",
+      "note": "No topic on intensive pronouns. Pronouns for clarity (mt_9yFAtUkoYr, grades 2-3) covers the same forms used reflexively."
+    },
+    {
+      "key": "ccss-ela:L.6.1c",
+      "note": "No topic on shifts in pronoun number and person. Agreement in sentences (mt_2NfIKEYdbm, grades 3-4) covers pronoun-antecedent agreement only."
+    },
+    {
+      "key": "ccss-ela:L.6.5b",
+      "note": "No topic uses cause/effect, part/whole or item/category relationships to understand words at this level. Category work is in Sorting & Categorizing Words and Defining Words (K-3)."
+    },
+    {
+      "key": "ccss-ela:W.5.10",
+      "note": "No topic models writing routinely over extended and short time frames. W.6.10 is linked partially to Writing Across Genres for its range of purposes and audiences; no grade 5 topic covers even that part."
+    }
+  ]
+}

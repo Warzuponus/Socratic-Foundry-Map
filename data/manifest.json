@@ -23,13 +23,13 @@
     "dependencies": 3221,
     "curricula": 7,
     "curriculumStandards": 3261,
-    "topicStandardLinks": 2121,
+    "topicStandardLinks": 2251,
     "clusters": 183
   },
   "files": {
     "topics.json": {
-      "bytes": 1752306,
-      "sha256": "c739f1459e02d486ab239cbdc4fafee262cb1c48a83fb902f162cbc96bf73eb0"
+      "bytes": 1760934,
+      "sha256": "6e3b0661e3bf5508d93a78b1c1c926ad761940e6e3c990e6e1ea3046e9f2ed55"
     },
     "dependencies.json": {
       "bytes": 699716,
